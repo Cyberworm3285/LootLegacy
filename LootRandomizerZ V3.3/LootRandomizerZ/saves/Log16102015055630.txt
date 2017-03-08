@@ -1,0 +1,76 @@
+Initialisiere Randomizer..
+Erstelle Stringlists..
+Erstmaliges leeren..
+Einlesen der cfg Dateien..
+Es wurden 7 Rüstungseffekte gefunden!
+Es wurden 17 Waffeneffekte gefunden!
+Es wurden 9 Lootquellen gefunden!
+Es wurden 5 Einträge gefunden!
+Es wurden 9 normale Items gefunden!
+Es wurden 10 seltene Items gefunden!
+Es wurden 12 sehr seltene Items gefunden!
+Es wurden 10 legendäre Items gefunden!
+Es wurden 4 Gebiete gefunden!
+Erfolgreich initialsiert!
+----Validieren----
+Normal:
+Item Geschaerfte Kruecke ist sauber!
+Item Old-School Jagdgewehr ist sauber!
+Item Uralt Karabiner ist sauber!
+Item Rost Revolver ist sauber!
+Item Kartoffelsack ist sauber!
+Item Wasser ist sauber!
+Item Fancy Handschuhe ist sauber!
+Item Kieselsteine ist sauber!
+Item Apfel ist sauber!
+Selten:
+Item 08/15 Vibroschwert ist sauber!
+Item Praezisionsgewehr ist sauber!
+Item Militaer-Sturmgewehr ist sauber!
+Item Standart Pistole ist sauber!
+Item Stahlplattenpanzter ist sauber!
+Item Schulterpanzer ist sauber!
+Item Glasscherben ist sauber!
+Item Krombacher ist sauber!
+Item Berensen Waldguelle ist sauber!
+Item Medipack ist sauber!
+Sehr Selten:
+Item NeoSamurai Katana ist sauber!
+Item MKS Scharfschuetzengewehr ist sauber!
+Item Spec-Ops Sturmkarabiner ist sauber!
+Item Elite-Pistole ist sauber!
+Item Schuh of Doom ist sauber!
+Item Backfisch ist sauber!
+Item Schere ist sauber!
+Item Erzquell ist sauber!
+Item Kithara ist sauber!
+Item Kunai ist sauber!
+Item Effekt Reset ist sauber!
+Item Ueberbruecker ist sauber!
+Legendary:
+Item Plasmawurfklingen ist sauber!
+Item Neutronium Duellierklinge ist sauber!
+Item 'Der ferne Tod' Sniper ist sauber!
+Item 'Der Kopf-Desintigrator' Gewehr ist sauber!
+Item 'Kompakte Vernichtung' Pistole ist sauber!
+Item Ouzo 12 ist sauber!
+Item Waffen Effekt Mod ist sauber!
+Item Ruestung Effekt Mod ist sauber!
+Item Random Effekt Mod ist sauber!
+>>>>>>>X<<<<<<<<
+Bei Item kackItemabcdef gibt es Fehler(13):
+[Error]I. ist Ruestung und Waffe!(E12)
+[Error]Ungültige Anzahl-Konfig!(E00)(a)
+[Error]Ungültige Anzahl-Konfig!(E01)(a)
+[Error]Ungültige Anzahl-Konfig!(E02)(b)
+[Error]Ungültige Anzahl-Konfig!(E03)(b)
+[Error]Ungültige Wert-Konfig!(E04)(c)
+[Error]Ungültige Wert-Konfig!(E05)(c)
+[Error]Ungültige Wert-Konfig!(E06)(d)
+[Error]Ungültige Wert-Konfig!(E07)(d)
+[Error]Ungültige Attribut-Konfig!(E08)(e)
+[Error]Ungültige Gebiets-Konfig!(E09)(f)
+[Error]Ungültige Anzahl-Konfig!(E01)(~)
+[Error]Ungültige Anzahl-Konfig!(E02)($)
+Item wird gelöscht..
+<<<<<<<X>>>>>>>>

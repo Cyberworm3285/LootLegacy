@@ -1,0 +1,9 @@
+----------------
+-3: Mega behindi (1,1)
+-2: Mongo (1,1)
+-1: Zivilist (1,1)
+0: Soldat (1,1)
+1: Sergeant (1,2)
+2: Lieutenant (1,3)
+3: Captain (2,3)
+4: Boss (2,4)

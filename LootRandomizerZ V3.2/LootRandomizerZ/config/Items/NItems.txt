@@ -1,0 +1,9 @@
+Geschaerfte Kruecke_[$;{0-3}]
+Old?-School Jagdgewehr_[$;{1-4}]
+Uralt Karabiner_[$;{0-3}]
+Rost Revolver_[$;{0-3}]
+Kartoffelsack_[~;{2-2}]
+Wasser_[(1,3)]
+Fancy Handschuhe_[#1]
+Kieselsteine[(2,4);$;{2-4}]
+Apfel

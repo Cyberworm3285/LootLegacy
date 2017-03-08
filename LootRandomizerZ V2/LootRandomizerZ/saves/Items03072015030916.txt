@@ -1,0 +1,28 @@
+Crap!
+Crap!
+Crap!
+03:08:57||Siegelring|Normal |KK(1)|Obere Ebene
+Crap!
+Crap!
+03:08:58||Derber Stock|Selten|21Dmg|2 Parade|GK(3)|GK(1)|Obere Ebene
+03:08:58||Schimmel|Normal |Nazi-Base
+03:08:58||Billig Armschiene|Normal |11DmgReduction|Nazi-Base
+03:08:59||Thunfisch|Normal |Unteren Ebenen
+03:09:00||Billig Armschiene|Normal |4DmgReduction|Unteren Ebenen
+03:09:00||Dreck|Normal |Unteren Ebenen
+Crap!
+03:09:01||Billig Armschiene|Normal |0DmgReduction|Raumschiff
+03:09:01||Taschentuecher|Normal | x(8)|Nazi-Base
+03:09:02||Sweatshirt|Selten|5DmgReduction|INT(3)|MB(4)|Unteren Ebenen
+Crap!
+03:09:02||Panzer|Normal |11DmgReduction|Nazi-Base
+03:09:03||Beef|Selten| x(2)|Nazi-Base
+03:09:03||Sweatshirt|Selten|10DmgReduction|GK(1)|GK(1)|Obere Ebene
+03:09:03||Zahnstocher|Normal |17Dmg|5 Parade| x(15)|Nazi-Base
+03:09:04||Billig Armschiene|Normal |4DmgReduction|Rebellenbase
+03:09:04||Siegelring|Normal |KK(4)|Nazi-Base
+03:09:07||Zahnstocher|Normal |17Dmg|3 Parade| x(13)|Nazi-Base
+03:09:08||Pistole|Normal |12Dmg|1 Parade|Obere Ebene
+03:09:08||Thunfisch|Normal |Rebellenbase
+03:09:08||Krombacher Radler|Sehr Selten| x(3)|Raumschiff
+

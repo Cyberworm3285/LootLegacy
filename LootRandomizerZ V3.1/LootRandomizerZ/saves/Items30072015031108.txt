@@ -1,0 +1,32 @@
+03:10:31||Armbrust des Querfickers|Legendary!|9Dmg|4 Parade|KK(3)|MB(1)|MB(4)|Raumschiff
+Diese Waffe macht gluecklich
+03:10:32||Dildo|Legendary!|13Dmg|1 Parade|KK(2)|AD(3)| x(3)|Raumschiff
+Diese Waffe macht muede
+03:10:33||Dildo|Legendary!|13Dmg|1 Parade|AD(3)|INT(1)| x(2)|Raumschiff
+Diese Waffe macht high
+03:10:44||krasse Kunais|Legendary!|13Dmg|1 Parade|AD(1)|KK(1)|KK(1)| x(2)|Raumschiff
+Diese Waffe macht gluecklich
+03:10:45||Dildo|Legendary!|10Dmg|3 Parade|AD(3)|INT(1)| x(1)|Raumschiff
+Diese Waffe macht gefuegig
+03:10:45||Dildo|Legendary!|9Dmg|4 Parade|GW(4)|CH(3)| x(2)|Raumschiff
+Diese Waffe macht lesbisch
+03:10:45||krasse Kunais|Legendary!|11Dmg|3 Parade|KK(1)|KK(4)|CH(1)| x(4)|Raumschiff
+Diese Waffe macht high
+03:11:03||Pistole|Normal |0Dmg|1 Parade|Raumschiff
+Crap!
+Crap!
+03:11:04||Pistole|Normal |1Dmg|5 Parade|Raumschiff
+Crap!
+Crap!
+03:11:05||Zahnstocher|Normal |2Dmg|5 Parade| x(6)|Raumschiff
+03:11:05||Pistole|Normal |0Dmg|4 Parade|Raumschiff
+03:11:05||Zahnstocher|Normal |2Dmg|4 Parade| x(10)|Raumschiff
+Crap!
+03:11:05||Zahnstocher|Normal |3Dmg|5 Parade| x(8)|Raumschiff
+03:11:05||Derber Stock|Selten|4Dmg|4 Parade|KK(1)|GW(3)|Raumschiff
+03:11:05||Spatern|Sehr Selten|6Dmg|1 Parade|Raumschiff
+03:11:05||Derber Stock|Selten|1Dmg|1 Parade|CH(2)|INT(4)|Raumschiff
+Crap!
+03:11:06||Spatern|Sehr Selten|5Dmg|2 Parade|Raumschiff
+03:11:06||Pistole|Normal |0Dmg|3 Parade|Raumschiff
+

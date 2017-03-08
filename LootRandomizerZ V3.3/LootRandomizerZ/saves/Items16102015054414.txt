@@ -1,0 +1,20 @@
+--2 Items--
+05:43:05||Glasscherben|Selten|6Dmg|1 Parade| x(3)|
+05:43:05||Berensen Waldguelle|Selten|
+--Ende--
+--2 Items--
+Crap!
+05:43:07||Ouzo 12|Legendary!|Wert:19|AD(1)|MB(2)|
+--Ende--
+--4 Items--
+05:43:08||Berensen Waldguelle|Selten|
+Crap!
+05:43:08||Wasser|Normal | x(2)|
+Crap!
+--Ende--
+--3 Items--
+Crap!
+Crap!
+05:44:08||Wasser|Normal | x(3)|
+--Ende--
+

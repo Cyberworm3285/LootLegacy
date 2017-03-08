@@ -1,0 +1,137 @@
+Beginne Generierung!
+Es werden 10 Items erstellt
+<<->>
+Erzeuge Seltenheit..
+Randomizer ergibt: 9
+4<rdm>13 ->Sehr Selten
+Item erhaelt Seltenheit: Sehr Selten
+Erzeuge Itemtyp..
+Filtere Itemliste...
+Es wurde/n 0 Item/s aussortiert!
+Es wurde/n 0 Treffer gefunden!
+Es sind 12 Items ungetagged!
+Randomizer ergibt: 6 -> Schere
+<<->>
+Erzeuge Seltenheit..
+Randomizer ergibt: 243
+150<rdm>253 ->Crap!
+Item erhaelt Seltenheit: Crap!
+Erzeuge Itemtyp..
+Crap! bleibt Crap!
+<<->>
+Erzeuge Seltenheit..
+Randomizer ergibt: 129
+50<rdm>151 ->Normal 
+Item erhaelt Seltenheit: Normal 
+Erzeuge Itemtyp..
+Filtere Itemliste...
+Es wurde/n 0 Item/s aussortiert!
+Es wurde/n 0 Treffer gefunden!
+Es sind 9 Items ungetagged!
+Randomizer ergibt: 1 -> Old?-School Jagdgewehr_[$;{1-4}]
+säubere Itemname..
+Old?-School Jagdgewehr_[$;{1-4}] -> Old-School Jagdgewehr
+filtere Sonderzeichen..
+Old?-School Jagdgewehr_[$;{1-4}] -> Old?XSchool Jagdgewehr_[$;{1-4}]
+Erzeuge genaue Werte..
+-> 3
+<<->>
+Erzeuge Seltenheit..
+Randomizer ergibt: 126
+50<rdm>151 ->Normal 
+Item erhaelt Seltenheit: Normal 
+Erzeuge Itemtyp..
+Filtere Itemliste...
+Es wurde/n 0 Item/s aussortiert!
+Es wurde/n 0 Treffer gefunden!
+Es sind 9 Items ungetagged!
+Randomizer ergibt: 7 -> Kieselsteine[(2,4);$;{2-4}]
+säubere Itemname..
+Kieselsteine[(2,4);$;{2-4}] -> Kieselsteine
+Erzeuge genaue Werte..
+-> 4
+<<->>
+Erzeuge Seltenheit..
+Randomizer ergibt: 182
+150<rdm>253 ->Crap!
+Item erhaelt Seltenheit: Crap!
+Erzeuge Itemtyp..
+Crap! bleibt Crap!
+<<->>
+Erzeuge Seltenheit..
+Randomizer ergibt: 60
+50<rdm>151 ->Normal 
+Item erhaelt Seltenheit: Normal 
+Erzeuge Itemtyp..
+Filtere Itemliste...
+Es wurde/n 0 Item/s aussortiert!
+Es wurde/n 0 Treffer gefunden!
+Es sind 9 Items ungetagged!
+Randomizer ergibt: 0 -> Geschaerfte Kruecke_[$;{0-3}]
+säubere Itemname..
+Geschaerfte Kruecke_[$;{0-3}] -> Geschaerfte Kruecke
+Erzeuge genaue Werte..
+-> 3
+<<->>
+Erzeuge Seltenheit..
+Randomizer ergibt: 228
+150<rdm>253 ->Crap!
+Item erhaelt Seltenheit: Crap!
+Erzeuge Itemtyp..
+Crap! bleibt Crap!
+<<->>
+Erzeuge Seltenheit..
+Randomizer ergibt: -3
+(-3)<rdm>5 ->Legendary!
+Item erhaelt Seltenheit: Legendary!
+Erzeuge Itemtyp..
+Filtere Itemliste...
+Es wurde/n 0 Item/s aussortiert!
+Es wurde/n 0 Treffer gefunden!
+Es sind 10 Items ungetagged!
+Randomizer ergibt: 1 -> Neutronium Duellierklinge_[$;#3;{10-12}]
+säubere Itemname..
+Neutronium Duellierklinge_[$;#3;{10-12}] -> Neutronium Duellierklinge
+Erzeuge genaue Werte..
+-> 11
+Erzeuge Attribute..
+Es werden 3 Attribute erzeugt!
+<<<<>>>>
+Chance auf Bonusattribut! (4)
+Bonusattribut! (GK)
+<<<<>>>>
+normales Attribut (0)
+Normal (CH)
+<<<<>>>>
+Chance auf Bonusattribut! (2)
+Bonusattribut! (GK)
+<<<<>>>>
+Fisch aufm Tisch,
+Legendary Shit! :)
+<<->>
+Erzeuge Seltenheit..
+Randomizer ergibt: 112
+50<rdm>151 ->Normal 
+Item erhaelt Seltenheit: Normal 
+Erzeuge Itemtyp..
+Filtere Itemliste...
+Es wurde/n 0 Item/s aussortiert!
+Es wurde/n 0 Treffer gefunden!
+Es sind 9 Items ungetagged!
+Randomizer ergibt: 2 -> Uralt Karabiner_[$;{0-3}]
+säubere Itemname..
+Uralt Karabiner_[$;{0-3}] -> Uralt Karabiner
+Erzeuge genaue Werte..
+-> 2
+<<->>
+Erzeuge Seltenheit..
+Randomizer ergibt: 140
+50<rdm>151 ->Normal 
+Item erhaelt Seltenheit: Normal 
+Erzeuge Itemtyp..
+Filtere Itemliste...
+Es wurde/n 0 Item/s aussortiert!
+Es wurde/n 0 Treffer gefunden!
+Es sind 9 Items ungetagged!
+Randomizer ergibt: 8 -> Apfel
+----------------------

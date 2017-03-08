@@ -1,0 +1,41 @@
+Die unter Umständen beim Validieren entstehenden Err0rs bedeuten folgendes:
+
+Ungültige Anzahl-Konfig!(E00)		->	hinter der ersten Klammer ( '(' ) ist keine Zahl
+Ungültige Anzahl-Konfig!(E01)		->	vor dem trennenden Komma ( ',' ) ist keine Zahl
+Ungültige Anzahl-Konfig!(E02)		->	nach dem trennenden Komma ( ',' ) ist keine Zahl
+Ungültige Anzahl-Konfig!(E03)		-> 	vor der zweiten Klammer ( ')' ) ist keine Zahl
+Ungültige Wert-Konfig!(E04) 		-> 	hinter der ersten Klammer ( '{' ) ist keine Zahl
+Ungültige Wert-Konfig!(E05)		->	vor dem trennenden Strich ( '-' ) ist keine Zahl
+Ungültige Wert-Konfig!(E06)		->	hinter dem trennenden Strich ( '-' ) ist keine Zahl
+Ungültige Wert-Konfig!(E07)		-> 	vor der zweiten Klammer ( '}' ) ist keine Zahl
+Ungültige Attribut-Konfig(08)!		->	hinter der Raute ( '#' ) ist keine Zahl
+Ungültige Gebiets-Konfig!(E09)		->	hinter dem Schrägstrich ( '\' ) ist keine Zahl
+Ungültige Gebiets-konfig!(E10)		->	der Gebiets-Tag über der Nummer des höchsten Gebiets
+Ungültige Gebiets-konfig!(E11)		-> 	der Gebietstag ist unter 1
+I. ist Ruestung und Waffe!(E12)		->	das Item ist sowohl mit '$' und '~' getagged
+Ungültige Lootquellen Konfig. !(E13)	->	die Anzahl der Gegner und deren 
+						Konfiguration stimmen nicht überein
+Keine Quellen angegeben!(E14)		->	es sind GAR keine Gegnertypen angegeben 
+						(möglicherweise fehlt die Startzahl)
+Ungültige Seltenheiten(E15)		->	es sind zu wenig Seltenheiten angegeben	
+Keine Items geladen!(E16)		->	es wurden GAR keine Items geladen					
+
+-------------------------------[Warnungen]---------------------------------
+
+Deklariert, aber kein Wert!(W00)->	[Warnung] Das Item ist zwar als Waffe/Rüstung getagged, 
+					bekommt aber keinen Wert zugewiesen (nicht essentiell)	
+Gebietsdatei ist leer!(W01)	->	[Warnung] Die Gebietsdatei ist leer und deshalb ist
+					die Hilfsfunktion deaktiviert 
+XItems ist leer(W02)-(W05)	-> 	[Warnung] Die jeweilige Itemdatei ist leer
+Keine Attribute(W06)		->	[Warnung] Es können keine Attribute hinzugefügt werden
+Ungültige Selteneheiten(W07)	->	[Warnung] Es sind unpassend viele Seltenheiten angegeben
+Keine L.A.Effekte(W08)		->	[Warnung] Es können keine Legendären Effekte 
+					zu Rüstungen hinzugefügt werden 
+Keine L.W.Effekte(W09)		->	[Warnung] Es können keine Legendären Effekte 
+					zu Waffen hinzugefügt werden
+
+
+
+
+
+

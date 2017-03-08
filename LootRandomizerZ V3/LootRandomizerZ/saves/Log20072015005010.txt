@@ -1,0 +1,61 @@
+Initialisiere Randomizer..
+Erstelle Stringlists..
+Erstmaliges leeren..
+Einlesen der cfg Dateien..
+Es wurden 7 Rüstungseffekte gefunden!
+Es wurden 17 Waffeneffekte gefunden!
+Es wurden 9 Lootquellen gefunden!
+Es wurden 30 Einträge gefunden!
+Es wurden 11 normale Items gefunden!
+Es wurden 9 seltene Items gefunden!
+Es wurden 10 sehr seltene Items gefunden!
+Es wurden 13 legendäre Items gefunden!
+Erfolgreich initialsiert!
+----------------
+Normal :
+1: Panzer_[~]
+2: Pistole_[$]
+3: Schnur
+4: Taschentuecher_[(1,8)]
+5: Klopapierrolle
+6: Thunfisch
+7: Schimmel
+8: Dreck
+9: Billig Armschiene_[~]
+10: Zahnstocher_[$;(5,15)]
+11: Siegelring_[#1]
+Selten:
+1: Derber Stock_[$;#2]
+2: Kissen
+3: Brille_[~]
+4: Snackbar_[(1,3)]
+5: Guertel_[~;#2]
+6: Beef_[(1,2)]
+7: Sweatshirt_[~#2]
+8: Holzspeer_[$]
+9: Chips
+Sehr Selten:
+1: Backfisch_[(1,3)]
+2: Schuh of Doom_[~;#2]
+3: Spatern_[$]
+4: Schere
+5: Schrotpatronen_[(1,5)]
+6: ?9mm Patronen_[(1,6)]
+7: Pferdekot
+8: Erzquell_[(1,3)]
+9: Krombacher Radler_[(1,5)]
+10: Kithara_[#1]
+Legendary!:
+1: krasse Kunais_[$;#3;(1,5)]
+2: Gold_[(0,100)]
+3: Eiskrone des Fickers_[~;#4]
+4: Schwert des Daemonenschlaechters_[$;#3]
+5: Diamant
+6: Ochsenhoden_[(2,2)]
+7: Ouzo ?1?2_[#2]
+8: Armbrust des Querfickers_[$;#3]
+9: TestMaster?5_[#2;$;~;(2,5)]
+10: Effekt Reset
+11: Waffen Effekt Mod
+12: Ruestung Effekt Mod
+13: Random Effekt Mod

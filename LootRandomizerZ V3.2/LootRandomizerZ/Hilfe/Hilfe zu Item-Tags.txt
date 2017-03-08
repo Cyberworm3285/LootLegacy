@@ -1,0 +1,12 @@
+Waffe       	    	-> $
+Rüstung      	    	-> ~
+Attribute 		-> #Zahl 	->(Anzahl der zu ertellenden Attribute)
+Anzahl 	    		-> (Zahl,Zahl) 	->(Intervallbegrenzung für die Anzahl)
+Schaden,Rüstung		-> {Zahl-Zahl} 	->(Schaden bei '$',Rüstung bei '~',ansonsten ohne Spezifikation) 
+Gebietsrestriktion 	-> \Zahl 	->(beschränkt das Item auf Gebiet X)
+wenn man eins der Sonderzeichen/ eine Zahl sonst verwendet,
+dann benutzt man vor jedem ein '?'
+Beispiele finden sich in den Dateien.
+weitere Sonderzeichen sin '[',']','_' und ';' um da 
+ein bischen Ordnung reinzubringen (haben keinen Effekt,
+ werden nachher rausgefiltert)

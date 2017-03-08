@@ -1,0 +1,45 @@
+----------------
+Normal :
+1: Pistole_[$]
+2: Zahnstocher_[$;(5,15)]
+Selten:
+1: Derber Stock_[$;#2]
+2: Holzspeer_[$]
+Sehr Selten:
+1: Spatern_[$]
+Legendary!:
+1: krasse Kunais_[$;#3;(1,5)]
+2: Schwert des Daemonenschlaechters_[$;#3]
+3: Armbrust des Querfickers_[$;#3]
+4: Dildo_[(1,3);#2;$;{100-1000}]
+Beginne Generierung!
+Es werden 1 Items erstellt
+<<->>
+Erzeuge Seltenheit..
+Modifiziere Rdm Werte (0-4)
+Randomizer ergibt: 4
+(-3)<rdm>5 ->Legendary!
+Item erhaelt Seltenheit: Legendary!
+Erzeuge Itemtyp..
+Filtere Itemliste...
+Liste ist 4 Items lang
+Randomizer ergibt: 0 -> krasse Kunais_[$;#3;(1,5)]
+Ignoriere Ergebnis..
+Erzwungener Itemtyp: krasse Kunais_[$;#3;(1,5)]
+säubere Itemname..
+krasse Kunais_[$;#3;(1,5)] -> krasse Kunais
+Erzeuge Attribute..
+Es werden 3 Attribute erzeugt!
+<<<<>>>>
+Chance auf Bonusattribut! (2)
+Bonusattribut! (INT)
+<<<<>>>>
+Chance auf Bonusattribut! (2)
+Bonusattribut! (GK)
+<<<<>>>>
+normales Attribut (0)
+Bonusattribut! (GW)
+<<<<>>>>
+Fisch aufm Tisch,
+Legendary Shit! :)
+----------------------

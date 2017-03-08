@@ -1,0 +1,141 @@
+----------------
+Normal :
+1: Geschaerfte Kruecke_[$;{0-3}]
+2: Old?-School Jagdgewehr_[$;{1-4}]
+3: Uralt Karabiner_[$;{0-3}]
+4: Rost Revolver_[$;{0-3}]
+5: Kartoffelsack_[~;{2-2}]
+6: Wasser_[(1,3)]
+7: Fancy Handschuhe_[#1]
+8: Kieselsteine[(2,4);$;{2-4}]
+9: Apfel
+Selten:
+1: 08?/15 Vibroschwert_[$;#1;{2-6}]
+2: Praezisionsgewehr_[$;#1;{2-8}]
+3: Militaer?-Sturmgewehr_[$;#1;{2-6}]
+4: Standart Pistole_[$;#1;{2-6}]
+5: Stahlplattenpanzter_[~;#1;{2-4}]
+6: Schulterpanzer_[~;{2-2}]
+7: Glasscherben_[$;(3,5);{3-7}]
+8: Krombacher_[(1,3)]
+9: Berensen Waldguelle
+10: Medipack_[(1,3)]
+Sehr Selten:
+1: NeoSamurai Katana_[$;#2;{6-9}]
+2: MKS Scharfschuetzengewehr_[$;#2;{7-11}]
+3: Spec?-Ops Sturmkarabiner_[$;#2;{6-9}]
+4: Elite?-Pistole_[$;#2;{6-9}]
+5: Schuh of Doom_[~;#1;{2-3}]
+6: Backfisch_[(1,3)]
+7: Schere
+8: Erzquell_[(1,3)]
+9: Kithara_[#1]
+10: Kunai_[(4,6);$;{8-12}]
+11: Effekt Reset
+12: Ueberbruecker_[(1,2)]
+Legendary!:
+1: Plasmawurfklingen_[$;#3;(5,5);{13-15}]
+2: Neutronium Duellierklinge_[$;#3;{10-12}]
+3: 'Der ferne Tod' Sniper_[$;#3;{11-15}]
+4: 'Der Kopf?-Desintigrator' Gewehr_[$;#3;{10-12}]
+5: 'Kompakte Vernichtung' Pistole_[$;#3;{10-12}]
+Eingabe wurde gesäubert! (-->0)
+6: Ouzo ?1?2_[#2;\9;{10-20}]
+7: Waffen Effekt Mod
+8: Ruestung Effekt Mod
+9: Random Effekt Mod
+Beginne Generierung!
+Es werden 1 Items erstellt
+<<->>
+Erzeuge Seltenheit..
+Modifiziere Rdm Werte (0-4)
+Randomizer ergibt: 4
+(-3)<rdm>5 ->Legendary!
+Item erhaelt Seltenheit: Legendary!
+Erzeuge Itemtyp..
+Filtere Itemliste...
+Eingabe wurde gesäubert! (-->0)
+Es wurde/n 1 Item/s aussortiert!
+Es wurde/n 0 Treffer gefunden!
+Es sind 8 Items ungetagged!
+Randomizer ergibt: 4 -> 'Kompakte Vernichtung' Pistole_[$;#3;{10-12}]
+Ignoriere Ergebnis..
+Erzwungener Itemtyp: Waffen Effekt Mod
+Fisch aufm Tisch,
+Legendary Shit! :)
+----------------------
+Beginne Generierung!
+Es werden 1 Items erstellt
+<<->>
+Erzeuge Seltenheit..
+Modifiziere Rdm Werte (0-4)
+Randomizer ergibt: 3
+(-3)<rdm>5 ->Legendary!
+Item erhaelt Seltenheit: Legendary!
+Erzeuge Itemtyp..
+Filtere Itemliste...
+Eingabe wurde gesäubert! (-->0)
+Es wurde/n 1 Item/s aussortiert!
+Es wurde/n 0 Treffer gefunden!
+Es sind 8 Items ungetagged!
+Randomizer ergibt: 6 -> Ruestung Effekt Mod
+Ignoriere Ergebnis..
+Erzwungener Itemtyp: Plasmawurfklingen_[$;#3;(5,5);{13-15}]
+säubere Itemname..
+Plasmawurfklingen_[$;#3;(5,5);{13-15}] -> Plasmawurfklingen
+Erzeuge genaue Werte..
+-> 13
+Erzeuge Attribute..
+Es werden 3 Attribute erzeugt!
+<<<<>>>>
+Chance auf Bonusattribut! (4)
+Normal (MB)
+<<<<>>>>
+Chance auf Bonusattribut! (4)
+Bonusattribut! (GK)
+<<<<>>>>
+Chance auf Bonusattribut! (3)
+Bonusattribut! (GK)
+<<<<>>>>
+Fisch aufm Tisch,
+Legendary Shit! :)
+----------------------
+----------------
+Unbekannte Quelle! (-3..4)
+abbruch!
+Beginne Generierung!
+Es werden 1 Items erstellt
+<<->>
+Erzeuge Seltenheit..
+Modifiziere Rdm Werte (0-4)
+Randomizer ergibt: 1
+(-3)<rdm>5 ->Legendary!
+Item erhaelt Seltenheit: Legendary!
+Erzeuge Itemtyp..
+Filtere Itemliste...
+Eingabe wurde gesäubert! (-->0)
+Es wurde/n 1 Item/s aussortiert!
+Es wurde/n 0 Treffer gefunden!
+Es sind 8 Items ungetagged!
+Randomizer ergibt: 0 -> Plasmawurfklingen_[$;#3;(5,5);{13-15}]
+Ignoriere Ergebnis..
+Erzwungener Itemtyp: 'Kompakte Vernichtung' Pistole_[$;#3;{10-12}]
+säubere Itemname..
+'Kompakte Vernichtung' Pistole_[$;#3;{10-12}] -> 'Kompakte Vernichtung' Pistole
+Erzeuge genaue Werte..
+-> 12
+Erzeuge Attribute..
+Es werden 3 Attribute erzeugt!
+<<<<>>>>
+normales Attribut (0)
+Normal (MB)
+<<<<>>>>
+Chance auf Bonusattribut! (2)
+Normal (MB)
+<<<<>>>>
+Chance auf Bonusattribut! (1)
+Bonusattribut! (INT)
+<<<<>>>>
+Fisch aufm Tisch,
+Legendary Shit! :)
+----------------------

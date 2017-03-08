@@ -1,0 +1,304 @@
+object Form1: TForm1
+  Left = 394
+  Height = 523
+  Top = 67
+  Width = 1076
+  Caption = 'xXLootMasterProXx'
+  ClientHeight = 523
+  ClientWidth = 1076
+  OnCreate = FormCreate
+  LCLVersion = '1.4.0.4'
+  object Button1: TButton
+    Left = 8
+    Height = 25
+    Top = 16
+    Width = 75
+    Caption = 'Loot!'
+    OnClick = Button1Click
+    TabOrder = 0
+  end
+  object Edit2: TEdit
+    Left = 272
+    Height = 23
+    Top = 41
+    Width = 136
+    TabOrder = 1
+  end
+  object Edit3: TEdit
+    Left = 488
+    Height = 23
+    Top = 18
+    Width = 24
+    TabOrder = 2
+    Text = '-'
+  end
+  object Button2: TButton
+    Left = 88
+    Height = 24
+    Top = 41
+    Width = 75
+    Caption = 'Initalisieren'
+    Color = 2601459
+    Font.CharSet = ANSI_CHARSET
+    Font.Color = clHotLight
+    Font.Height = -13
+    Font.Name = 'Arial'
+    Font.Pitch = fpVariable
+    Font.Quality = fqDraft
+    Font.Style = [fsUnderline]
+    OnClick = Button2Click
+    ParentFont = False
+    TabOrder = 3
+  end
+  object StaticText2: TStaticText
+    Left = 200
+    Height = 17
+    Top = 41
+    Width = 65
+    Caption = 'Quelle'
+    TabOrder = 4
+  end
+  object Memo1: TMemo
+    Left = 8
+    Height = 434
+    Top = 88
+    Width = 571
+    Lines.Strings = (
+      'Memo1'
+    )
+    TabOrder = 5
+  end
+  object Edit4: TEdit
+    Left = 488
+    Height = 23
+    Top = 41
+    Width = 72
+    TabOrder = 6
+    Text = '-'
+  end
+  object StaticText3: TStaticText
+    Left = 416
+    Height = 17
+    Top = 24
+    Width = 65
+    Caption = 'Rarity'
+    TabOrder = 7
+  end
+  object StaticText4: TStaticText
+    Left = 416
+    Height = 17
+    Top = 46
+    Width = 65
+    Caption = 'Type'
+    TabOrder = 8
+  end
+  object ListBox1: TListBox
+    Left = 592
+    Height = 426
+    Top = 88
+    Width = 392
+    ItemHeight = 0
+    TabOrder = 9
+  end
+  object Shape1: TShape
+    Left = 640
+    Height = 51
+    Top = 20
+    Width = 72
+    Shape = stRoundRect
+  end
+  object Button3: TButton
+    Left = 720
+    Height = 25
+    Top = 20
+    Width = 86
+    Caption = 'Clear'
+    OnClick = Button3Click
+    TabOrder = 10
+  end
+  object Button4: TButton
+    Left = 808
+    Height = 25
+    Top = 20
+    Width = 88
+    Caption = 'Typen'
+    OnClick = Button4Click
+    TabOrder = 11
+  end
+  object Button5: TButton
+    Left = 896
+    Height = 25
+    Top = 20
+    Width = 80
+    Caption = 'Seltenheiten'
+    OnClick = Button5Click
+    TabOrder = 12
+  end
+  object Button6: TButton
+    Left = 8
+    Height = 24
+    Top = 41
+    Width = 75
+    Caption = 'Random'
+    OnClick = Button6Click
+    TabOrder = 13
+  end
+  object Button8: TButton
+    Left = 896
+    Height = 25
+    Top = 47
+    Width = 80
+    Caption = 'Quelle'
+    OnClick = Button8Click
+    TabOrder = 14
+  end
+  object Edit5: TEdit
+    Left = 536
+    Height = 23
+    Top = 18
+    Width = 24
+    TabOrder = 15
+    Text = '-'
+  end
+  object StaticText5: TStaticText
+    Left = 519
+    Height = 17
+    Top = 22
+    Width = 9
+    Caption = '-'
+    TabOrder = 16
+  end
+  object Button10: TButton
+    Left = 720
+    Height = 25
+    Top = 47
+    Width = 86
+    Caption = 'Save'
+    OnClick = Button10Click
+    TabOrder = 17
+  end
+  object CheckBox1: TCheckBox
+    Left = 576
+    Height = 19
+    Top = 8
+    Width = 64
+    Caption = 'Rüstung'
+    OnClick = CheckBox1Click
+    TabOrder = 18
+  end
+  object CheckBox2: TCheckBox
+    Left = 576
+    Height = 19
+    Top = 24
+    Width = 51
+    Caption = 'Waffe'
+    OnClick = CheckBox2Click
+    TabOrder = 19
+  end
+  object CheckBox3: TCheckBox
+    Left = 576
+    Height = 19
+    Top = 56
+    Width = 45
+    Caption = 'Alles'
+    Checked = True
+    OnClick = CheckBox3Click
+    State = cbChecked
+    TabOrder = 20
+  end
+  object Button9: TButton
+    Left = 992
+    Height = 60
+    Top = 88
+    Width = 80
+    Caption = 'Kürzer'
+    OnClick = Button9Click
+    TabOrder = 21
+  end
+  object Button11: TButton
+    Left = 992
+    Height = 60
+    Top = 152
+    Width = 80
+    Caption = 'Länger'
+    OnClick = Button11Click
+    TabOrder = 22
+  end
+  object Button12: TButton
+    Left = 992
+    Height = 25
+    Top = 20
+    Width = 80
+    Caption = 'W6'
+    OnClick = Button12Click
+    TabOrder = 23
+  end
+  object Button13: TButton
+    Left = 992
+    Height = 25
+    Top = 47
+    Width = 80
+    Caption = 'W20'
+    OnClick = Button13Click
+    TabOrder = 24
+  end
+  object Button14: TButton
+    Left = 88
+    Height = 25
+    Top = 16
+    Width = 75
+    Caption = 'GetEffect'
+    OnClick = Button14Click
+    TabOrder = 25
+  end
+  object Edit6: TEdit
+    Left = 272
+    Height = 23
+    Top = 18
+    Width = 136
+    TabOrder = 26
+    Text = '-'
+  end
+  object StaticText6: TStaticText
+    Left = 200
+    Height = 17
+    Top = 22
+    Width = 65
+    Caption = 'Anzahl'
+    TabOrder = 27
+  end
+  object Edit1: TEdit
+    Left = 272
+    Height = 23
+    Top = 64
+    Width = 136
+    TabOrder = 28
+    Text = '-'
+  end
+  object Label1: TLabel
+    Left = 200
+    Height = 15
+    Top = 60
+    Width = 34
+    Caption = 'Gebiet'
+    ParentColor = False
+  end
+  object Button7: TButton
+    Left = 808
+    Height = 25
+    Top = 47
+    Width = 88
+    Caption = 'Gebiete'
+    OnClick = Button7Click
+    TabOrder = 29
+  end
+  object CheckBox4: TCheckBox
+    Left = 576
+    Height = 19
+    Top = 40
+    Width = 58
+    Caption = 'Diverse'
+    OnClick = CheckBox4Click
+    TabOrder = 30
+  end
+end

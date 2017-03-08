@@ -1,0 +1,395 @@
+Initialisiere Randomizer..
+Erstelle Stringlists..
+Erstmaliges leeren..
+Einlesen der cfg Dateien..
+Es wurden 7 Rüstungseffekte gefunden!
+Es wurden 17 Waffeneffekte gefunden!
+Es wurden 9 Lootquellen gefunden!
+Es wurden 10 Einträge gefunden!
+Es wurden 9 normale Items gefunden!
+Es wurden 9 seltene Items gefunden!
+Es wurden 11 sehr seltene Items gefunden!
+Es wurden 9 legendäre Items gefunden!
+Erfolgreich initialsiert!
+----------------
+Normal :
+1: Gesch?rfte Kr?cke_[$;{0-3}]
+2: Old-School Jagdgewehr_[$;{1-4}]
+3: Uralt Karabiner_[$;{0-3}]
+4: Rost Revolver_[$;{0-3}]
+5: Kartoffelsack_[~;{2-2}]
+6: Wasser_[(1,3)]
+7: Fancy Handschuhe_[#1]
+8: Kieselsteine[(2,4);$;{2-4}]
+9: Apfel
+Selten:
+1: 08/15 Vibroschwert_[$;#1;{2-6}]
+2: Pr?zisionsgewehr_[$;#1;{2-8}]
+3: Milit?r-Sturmgewehr_[$;#1;{2-6}]
+4: Standart Pistole_[$;#1;{2-6}]
+5: Stahlplattenpanzter_[~;#1;{2-4}]
+6: Schulterpanzer_[~;{2-2}]
+7: Glasscherben_[$;(3,5);{3-7}]
+8: Krombacher_[(1,3)]
+9: Berensen Waldguelle
+Sehr Selten:
+1: NeoSamurai Katana_[$;#2;{6-9}]
+2: MKS Scharfschuetzengewehr_[$;#2;{7-11}]
+3: Spec-Ops Sturmkarabiner_[$;#2;{6-9}]
+4: Elite-Pistole_[$;#2;{6-9}]
+5: Schuh of Doom_[~;#1;{2-3}]
+6: Backfisch_[(1,3)]
+7: Schere
+8: Erzquell_[(1,3)]
+9: Kithara_[#1]
+10: Kunai_[(4,6);$;{8-12}]
+11: Effekt Reset
+Legendary!:
+1: Plasmawurfklingen_[$;#3;(5,5);{13-15}]
+2: Neutronium Duellierklinge_[$;#3;{10-12}]
+3: 'Der ferne Tod' Sniper_[$;#3;{11-15}]
+4: 'Der Kopf-Desintigrator' Gewehr_[$;#3;{10-12}]
+5: 'Kompakte Vernichtung' Pistole_[$;#3;{10-12}]
+6: Ouzo ?1?2_[#2]
+7: Waffen Effekt Mod
+8: Ruestung Effekt Mod
+9: Random Effekt Mod
+Beginne Generierung!
+Es werden 1 Items erstellt (1;1)
+<<->>
+Erzeuge Seltenheit..
+Randomizer ergibt: 186
+150<rdm>253 ->Crap!
+Item erhaelt Seltenheit: Crap!
+Erzeuge Itemtyp..
+Crap! bleibt Crap!
+----------------------
+Beginne Generierung!
+Es werden 1 Items erstellt (1;1)
+<<->>
+Erzeuge Seltenheit..
+Randomizer ergibt: 21
+12<rdm>51 ->Selten
+Item erhaelt Seltenheit: Selten
+Erzeuge Itemtyp..
+Filtere Itemliste...
+Es wurde/n 0 Item/s aussortiert!
+Es wurde/n 0 Treffer gefunden!
+Es sind 9 Items ungetagged!
+Randomizer ergibt: 1 -> Pr?zisionsgewehr_[$;#1;{2-8}]
+säubere Itemname..
+Pr?zisionsgewehr_[$;#1;{2-8}] -> Pr?zisionsgewehr
+Erzeuge genaue Werte..
+-> 7
+Erzeuge Attribute..
+Es wird 1 Attribut erzeugt!
+<<<<>>>>
+normales Attribut (0)
+Normal (MB)
+<<<<>>>>
+----------------------
+Beginne Generierung!
+Es werden 1 Items erstellt (1;1)
+<<->>
+Erzeuge Seltenheit..
+Randomizer ergibt: 48
+12<rdm>51 ->Selten
+Item erhaelt Seltenheit: Selten
+Erzeuge Itemtyp..
+Filtere Itemliste...
+Es wurde/n 0 Item/s aussortiert!
+Es wurde/n 0 Treffer gefunden!
+Es sind 9 Items ungetagged!
+Randomizer ergibt: 8 -> Berensen Waldguelle
+----------------------
+Beginne Generierung!
+Es werden 1 Items erstellt (1;1)
+<<->>
+Erzeuge Seltenheit..
+Randomizer ergibt: 144
+50<rdm>151 ->Normal 
+Item erhaelt Seltenheit: Normal 
+Erzeuge Itemtyp..
+Filtere Itemliste...
+Es wurde/n 0 Item/s aussortiert!
+Es wurde/n 0 Treffer gefunden!
+Es sind 9 Items ungetagged!
+Randomizer ergibt: 1 -> Old-School Jagdgewehr_[$;{1-4}]
+säubere Itemname..
+Old-School Jagdgewehr_[$;{1-4}] -> OldSchool Jagdgewehr
+Erzeuge genaue Werte..
+-> 4
+----------------------
+Beginne Generierung!
+Es werden 1 Items erstellt (1;1)
+<<->>
+Erzeuge Seltenheit..
+Randomizer ergibt: 174
+150<rdm>253 ->Crap!
+Item erhaelt Seltenheit: Crap!
+Erzeuge Itemtyp..
+Crap! bleibt Crap!
+----------------------
+Beginne Generierung!
+Es werden 1 Items erstellt (1;1)
+<<->>
+Erzeuge Seltenheit..
+Randomizer ergibt: 27
+12<rdm>51 ->Selten
+Item erhaelt Seltenheit: Selten
+Erzeuge Itemtyp..
+Filtere Itemliste...
+Es wurde/n 0 Item/s aussortiert!
+Es wurde/n 0 Treffer gefunden!
+Es sind 9 Items ungetagged!
+Randomizer ergibt: 7 -> Krombacher_[(1,3)]
+säubere Itemname..
+Krombacher_[(1,3)] -> Krombacher
+----------------------
+Beginne Generierung!
+Es werden 1 Items erstellt (1;1)
+<<->>
+Erzeuge Seltenheit..
+Randomizer ergibt: 147
+50<rdm>151 ->Normal 
+Item erhaelt Seltenheit: Normal 
+Erzeuge Itemtyp..
+Filtere Itemliste...
+Es wurde/n 0 Item/s aussortiert!
+Es wurde/n 0 Treffer gefunden!
+Es sind 9 Items ungetagged!
+Randomizer ergibt: 1 -> Old-School Jagdgewehr_[$;{1-4}]
+säubere Itemname..
+Old-School Jagdgewehr_[$;{1-4}] -> OldSchool Jagdgewehr
+Erzeuge genaue Werte..
+-> 3
+----------------------
+Beginne Generierung!
+Es werden 1 Items erstellt (1;1)
+<<->>
+Erzeuge Seltenheit..
+Randomizer ergibt: 184
+150<rdm>253 ->Crap!
+Item erhaelt Seltenheit: Crap!
+Erzeuge Itemtyp..
+Crap! bleibt Crap!
+----------------------
+Beginne Generierung!
+Es werden 1 Items erstellt (1;1)
+<<->>
+Erzeuge Seltenheit..
+Randomizer ergibt: 43
+12<rdm>51 ->Selten
+Item erhaelt Seltenheit: Selten
+Erzeuge Itemtyp..
+Filtere Itemliste...
+Es wurde/n 0 Item/s aussortiert!
+Es wurde/n 0 Treffer gefunden!
+Es sind 9 Items ungetagged!
+Randomizer ergibt: 1 -> Pr?zisionsgewehr_[$;#1;{2-8}]
+säubere Itemname..
+Pr?zisionsgewehr_[$;#1;{2-8}] -> Pr?zisionsgewehr
+Erzeuge genaue Werte..
+-> 8
+Erzeuge Attribute..
+Es wird 1 Attribut erzeugt!
+<<<<>>>>
+normales Attribut (0)
+Normal (MB)
+<<<<>>>>
+----------------------
+Beginne Generierung!
+Es werden 1 Items erstellt (1;1)
+<<->>
+Erzeuge Seltenheit..
+Randomizer ergibt: 75
+50<rdm>151 ->Normal 
+Item erhaelt Seltenheit: Normal 
+Erzeuge Itemtyp..
+Filtere Itemliste...
+Es wurde/n 0 Item/s aussortiert!
+Es wurde/n 0 Treffer gefunden!
+Es sind 9 Items ungetagged!
+Randomizer ergibt: 5 -> Wasser_[(1,3)]
+säubere Itemname..
+Wasser_[(1,3)] -> Wasser
+----------------------
+Beginne Generierung!
+Es werden 1 Items erstellt (1;1)
+<<->>
+Erzeuge Seltenheit..
+Randomizer ergibt: 95
+50<rdm>151 ->Normal 
+Item erhaelt Seltenheit: Normal 
+Erzeuge Itemtyp..
+Filtere Itemliste...
+Es wurde/n 0 Item/s aussortiert!
+Es wurde/n 0 Treffer gefunden!
+Es sind 9 Items ungetagged!
+Randomizer ergibt: 7 -> Kieselsteine[(2,4);$;{2-4}]
+säubere Itemname..
+Kieselsteine[(2,4);$;{2-4}] -> Kieselsteine
+Erzeuge genaue Werte..
+-> 2
+----------------------
+Beginne Generierung!
+Es werden 1 Items erstellt (1;1)
+<<->>
+Erzeuge Seltenheit..
+Randomizer ergibt: 170
+150<rdm>253 ->Crap!
+Item erhaelt Seltenheit: Crap!
+Erzeuge Itemtyp..
+Crap! bleibt Crap!
+----------------------
+Beginne Generierung!
+Es werden 1 Items erstellt (1;1)
+<<->>
+Erzeuge Seltenheit..
+Randomizer ergibt: 199
+150<rdm>253 ->Crap!
+Item erhaelt Seltenheit: Crap!
+Erzeuge Itemtyp..
+Crap! bleibt Crap!
+----------------------
+Beginne Generierung!
+Es werden 1 Items erstellt (1;1)
+<<->>
+Erzeuge Seltenheit..
+Randomizer ergibt: 44
+12<rdm>51 ->Selten
+Item erhaelt Seltenheit: Selten
+Erzeuge Itemtyp..
+Filtere Itemliste...
+Es wurde/n 0 Item/s aussortiert!
+Es wurde/n 0 Treffer gefunden!
+Es sind 9 Items ungetagged!
+Randomizer ergibt: 3 -> Standart Pistole_[$;#1;{2-6}]
+säubere Itemname..
+Standart Pistole_[$;#1;{2-6}] -> Standart Pistole
+Erzeuge genaue Werte..
+-> 2
+Erzeuge Attribute..
+Es wird 1 Attribut erzeugt!
+<<<<>>>>
+normales Attribut (0)
+Normal (AD)
+<<<<>>>>
+----------------------
+Beginne Generierung!
+Es werden 1 Items erstellt (1;1)
+<<->>
+Erzeuge Seltenheit..
+Randomizer ergibt: 143
+50<rdm>151 ->Normal 
+Item erhaelt Seltenheit: Normal 
+Erzeuge Itemtyp..
+Filtere Itemliste...
+Es wurde/n 0 Item/s aussortiert!
+Es wurde/n 0 Treffer gefunden!
+Es sind 9 Items ungetagged!
+Randomizer ergibt: 8 -> Apfel
+----------------------
+Beginne Generierung!
+Es werden 1 Items erstellt (1;1)
+<<->>
+Erzeuge Seltenheit..
+Randomizer ergibt: 24
+12<rdm>51 ->Selten
+Item erhaelt Seltenheit: Selten
+Erzeuge Itemtyp..
+Filtere Itemliste...
+Es wurde/n 0 Item/s aussortiert!
+Es wurde/n 0 Treffer gefunden!
+Es sind 9 Items ungetagged!
+Randomizer ergibt: 4 -> Stahlplattenpanzter_[~;#1;{2-4}]
+säubere Itemname..
+Stahlplattenpanzter_[~;#1;{2-4}] -> Stahlplattenpanzter
+Erzeuge genaue Werte..
+-> 3
+Erzeuge Attribute..
+Es wird 1 Attribut erzeugt!
+<<<<>>>>
+normales Attribut (0)
+Normal (GW)
+<<<<>>>>
+----------------------
+Beginne Generierung!
+Es werden 1 Items erstellt (1;1)
+<<->>
+Erzeuge Seltenheit..
+Randomizer ergibt: 225
+150<rdm>253 ->Crap!
+Item erhaelt Seltenheit: Crap!
+Erzeuge Itemtyp..
+Crap! bleibt Crap!
+----------------------
+Beginne Generierung!
+Es werden 1 Items erstellt (1;1)
+<<->>
+Erzeuge Seltenheit..
+Randomizer ergibt: 28
+12<rdm>51 ->Selten
+Item erhaelt Seltenheit: Selten
+Erzeuge Itemtyp..
+Filtere Itemliste...
+Es wurde/n 0 Item/s aussortiert!
+Es wurde/n 0 Treffer gefunden!
+Es sind 9 Items ungetagged!
+Randomizer ergibt: 1 -> Pr?zisionsgewehr_[$;#1;{2-8}]
+säubere Itemname..
+Pr?zisionsgewehr_[$;#1;{2-8}] -> Pr?zisionsgewehr
+Erzeuge genaue Werte..
+-> 6
+Erzeuge Attribute..
+Es wird 1 Attribut erzeugt!
+<<<<>>>>
+normales Attribut (0)
+Normal (MB)
+<<<<>>>>
+----------------------
+Beginne Generierung!
+Es werden 1 Items erstellt (1;1)
+<<->>
+Erzeuge Seltenheit..
+Randomizer ergibt: 85
+50<rdm>151 ->Normal 
+Item erhaelt Seltenheit: Normal 
+Erzeuge Itemtyp..
+Filtere Itemliste...
+Es wurde/n 0 Item/s aussortiert!
+Es wurde/n 0 Treffer gefunden!
+Es sind 9 Items ungetagged!
+Randomizer ergibt: 4 -> Kartoffelsack_[~;{2-2}]
+säubere Itemname..
+Kartoffelsack_[~;{2-2}] -> Kartoffelsack
+Erzeuge genaue Werte..
+-> 2
+----------------------
+Beginne Generierung!
+Es werden 1 Items erstellt (1;1)
+<<->>
+Erzeuge Seltenheit..
+Randomizer ergibt: 9
+4<rdm>13 ->Sehr Selten
+Item erhaelt Seltenheit: Sehr Selten
+Erzeuge Itemtyp..
+Filtere Itemliste...
+Es wurde/n 0 Item/s aussortiert!
+Es wurde/n 0 Treffer gefunden!
+Es sind 11 Items ungetagged!
+Randomizer ergibt: 1 -> MKS Scharfschuetzengewehr_[$;#2;{7-11}]
+säubere Itemname..
+MKS Scharfschuetzengewehr_[$;#2;{7-11}] -> MKS Scharfschuetzengewehr
+Erzeuge genaue Werte..
+-> 9
+Erzeuge Attribute..
+Es werden 2 Attribute erzeugt!
+<<<<>>>>
+normales Attribut (0)
+Normal (MB)
+<<<<>>>>
+normales Attribut (0)
+Normal (CH)
+<<<<>>>>
+----------------------

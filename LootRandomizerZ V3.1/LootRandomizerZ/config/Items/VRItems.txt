@@ -1,0 +1,12 @@
+NeoSamurai Katana_[$;#2;{6-9}]
+MKS Scharfschuetzengewehr_[$;#2;{7-11}]
+Spec?-Ops Sturmkarabiner_[$;#2;{6-9}]
+Elite?-Pistole_[$;#2;{6-9}]
+Schuh of Doom_[~;#1;{2-3}]
+Backfisch_[(1,3)]
+Schere
+Erzquell_[(1,3)]
+Kithara_[#1]
+Kunai_[(4,6);$;{8-12}]
+Effekt Reset
+Ueberbruecker_[(1,2)]

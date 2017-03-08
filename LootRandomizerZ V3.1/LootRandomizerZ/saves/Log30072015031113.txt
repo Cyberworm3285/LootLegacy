@@ -1,0 +1,30 @@
+----------------------
+Beginne Generierung!
+Erzeuge Seltenheit..
+Randomizer ergibt: 48
+12<rdm>51 ->Selten
+Item erhaelt Seltenheit: Selten
+Erzeuge Itemtyp..
+Filtere Itemliste...
+Liste ist 2 Items lang
+Randomizer ergibt: 1 -> Holzspeer_[$]
+säubere Itemname..
+Holzspeer_[$] -> Holzspeer
+Erzeuge genaue Werte..
+Addiere Grundwert mit Randomwert..
+-> 4
+Erzeuge Seltenheit..
+Randomizer ergibt: 139
+50<rdm>151 ->Normal 
+Item erhaelt Seltenheit: Normal 
+Erzeuge Itemtyp..
+Filtere Itemliste...
+Liste ist 2 Items lang
+Randomizer ergibt: 1 -> Zahnstocher_[$;(5,15)]
+säubere Itemname..
+Zahnstocher_[$;(5,15)] -> Zahnstocher
+Erzeuge genaue Werte..
+Addiere Grundwert mit Randomwert..
+-> -2
+Korrigiere negative Abweichung..
+-2 -> 0

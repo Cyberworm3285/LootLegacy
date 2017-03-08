@@ -1,0 +1,5 @@
+--2 Items--
+20:01:39||Dreck|Normal |Obere Ebene
+20:01:39||Holzspeer|Selten|20Dmg|1 Parade|Obere Ebene
+--Ende--
+

@@ -1,0 +1,5 @@
+Schwert
+Gewehr
+Sniper
+Pistole
+Ruestung

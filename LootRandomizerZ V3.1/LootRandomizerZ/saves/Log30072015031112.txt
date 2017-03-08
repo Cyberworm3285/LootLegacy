@@ -1,0 +1,18 @@
+----------------------
+Beginne Generierung!
+Erzeuge Seltenheit..
+Randomizer ergibt: 227
+150<rdm>253 ->Crap!
+Item erhaelt Seltenheit: Crap!
+Erzeuge Itemtyp..
+Crap! bleibt Crap!
+säubere Itemname..
+Crap! -> Crap!
+Erzeuge Seltenheit..
+Randomizer ergibt: 173
+150<rdm>253 ->Crap!
+Item erhaelt Seltenheit: Crap!
+Erzeuge Itemtyp..
+Crap! bleibt Crap!
+säubere Itemname..
+Crap! -> Crap!

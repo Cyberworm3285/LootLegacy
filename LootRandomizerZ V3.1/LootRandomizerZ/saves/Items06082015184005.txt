@@ -1,0 +1,21 @@
+Crap!
+18:37:34||Pr?zisionsgewehr|Selten|7Dmg|3 Parade|MB(3)|Raumschiff
+18:38:19||Berensen Waldguelle|Selten|Raumschiff
+18:38:24||OldSchool Jagdgewehr|Normal |4Dmg|2 Parade|Raumschiff
+Crap!
+18:38:30||Krombacher|Selten| x(2)|Raumschiff
+18:38:31||OldSchool Jagdgewehr|Normal |3Dmg|5 Parade|Raumschiff
+Crap!
+18:38:33||Pr?zisionsgewehr|Selten|8Dmg|5 Parade|MB(4)|Raumschiff
+18:38:34||Wasser|Normal | x(2)|Raumschiff
+18:38:35||Kieselsteine|Normal |2Dmg|1 Parade| x(2)|Raumschiff
+Crap!
+Crap!
+18:38:42||Standart Pistole|Selten|2Dmg|1 Parade|AD(4)|Raumschiff
+18:38:42||Apfel|Normal |Raumschiff
+18:38:43||Stahlplattenpanzter|Selten|3DmgReduction|GW(1)|Raumschiff
+Crap!
+18:38:44||Pr?zisionsgewehr|Selten|6Dmg|1 Parade|MB(3)|Raumschiff
+18:38:44||Kartoffelsack|Normal |2DmgReduction|Raumschiff
+18:38:44||MKS Scharfschuetzengewehr|Sehr Selten|9Dmg|3 Parade|MB(2)|CH(3)|Raumschiff
+

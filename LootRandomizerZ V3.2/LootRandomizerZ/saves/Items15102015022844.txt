@@ -1,0 +1,6 @@
+02:27:53||Waffen Effekt Mod|Legendary!|Wert:||
+02:28:04||Plasmawurfklingen|Legendary!|13Dmg|2 Parade|MB(2)|GK(2)|GK(2)| x(5)|
+Diese Waffe macht verzweifelt
+02:28:28||'Kompakte Vernichtung' Pistole|Legendary!|12Dmg|1 Parade|MB(2)|MB(1)|INT(1)|
+Diese Waffe macht high
+

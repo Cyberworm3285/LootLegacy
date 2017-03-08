@@ -1,0 +1,11 @@
+Panzer_[~]
+Pistole_[$]
+Schnur
+Taschentuecher_[(1,8)]
+Klopapierrolle
+Thunfisch
+Schimmel
+Dreck
+Billig Armschiene~
+Zahnstocher_[$;(5,15)]
+Siegelring_[#1]

@@ -1,0 +1,10 @@
+?0?8?/?1?5 Vibroschwert_[$;#1;{2-6}]
+Praezisionsgewehr_[$;#1;{2-8}]
+Militaer?-Sturmgewehr_[$;#1;{2-6}]
+Standart Pistole_[$;#1;{2-6}]
+Stahlplattenpanzter_[~;#1;{2-4}]
+Schulterpanzer_[~;{2-2}]
+Glasscherben_[$;(3,5);{3-7}]
+Krombacher_[(1,3)]
+Berensen Waldguelle
+Medipack_[(1,3)]

@@ -1,0 +1,68 @@
+Allgemeines:
+-es empfehlenswert keine Leerzeichen hinter den Enträgen zu lassen 
+ (mal angenommen ' '='_' , dann ist 'EintragX' weniger gefährdet 
+ alles in die Luft zu jagen als 'EintagY_' )
+-Umlaute werden vom Programm NICHT erkannt (ä,Ö,Ü)
+ und werden nachher als '?' dargestellt
+
+Sources:
+-enthält die Namen aller Gegner Klassen von Unten aufsteigend
+-jede Klasse bekommt einen Zahlenwert zugeordnet um das Loot zu beeinfussen
+-dies geschieht automatisch von der Zahl in der letzten Zeile aufsteigend
+
+Rarities:
+-enthält die Namen aller Seltenheitsgrade
+-es MÜSSEN genau 5 Namen eingetragen werden
+-die Seltenheit in der ersten Zeile ist quasi die 'Niete'
+-programmintern werden die Grade von '0' bis '4' nummeriert
+
+LootCount:
+-enthält die Intervalle der Anzahl der gelooteten Items (A,B) 
+ (von A bis B Items können von Gegener X gedropppt werden)
+-es MÜSSEN genau so viele Eingaben gemacht werden wie in 'Sources',
+ da diese Werte den Namen (-> Gegener X) und Stufen zugeordnet werden
+
+LegendaryEffectW
+-(W->Weappon)
+-enthält die Effekte der legendären Items, die als Waffe getagged sind
+-es können beliebig viele Einträge gemacht werden
+
+LegendaryEffectA
+-(A->Armor)
+-enthält die Effekte der legendären Items, die als Rüstung getagged sind
+-es können beliebig viele Einträge gemacht werden
+
+Gebiete:
+-enthält die Namen aller Gebiete
+-diese Gebiete bekommen Programmintern Nummern zugewiesen,
+ um es zu ermöglichen Items nur in bestimmten Bereichen droppen zu können
+ -> die Nummern lassen sich im Programm abfragen und die Namen dienen nur dazu,
+    die dazugehörige Nummer festzustellen
+    -> theoretisch kann man diese Datei also komplett leer lassen,
+       muss sich aber dann genau merken, welche Nummer für welches Item gebraucht wird
+-die Nummerierung ist von 1 aufsteigend (Zeile X = X)
+-Die bei der Item-Konfiguration verwendete Restriktion darf logischerweise nicht unter 
+ 1 oder über der letzten Zeile liegen
+
+Attribute:
+-enthält die Kürzel aller erhaltbaren Attribute
+-es können beliebig viele Einträge gemacht werden
+-die Zahl in der letzten Zeile reserviert die letzten X Attribute auf Drops von besseren Gegnern
+ ->ermöglicht, dass die nützlicheren Attribute nur von besseren Gegenern erhalten werden können
+ ->wenn man ein '0' Einträgt, gibt es keine Reservierung
+ -> alle Gegner von der Nummer '1' aufwärts können 'bessere' Attribute erzeugen
+
+
+Hilfe zu allen Dateien:
+-enthält eine Anleitung für alle im Ordner befindlichen .txt 
+ Konfigurationsdateien und Texte 
+
+Hilfe zum Interface des Programms:
+-enthält eine Beschreibung für jedes Element des Programms und deren Funktion
+
+Hilfe zu Item-Tags:
+-enthält die Liste aller Sonderzeichen
+-enthält die Liste aller Tags, deren Funktion und deren Syntax
+
+Hilfe zu Errors:
+-enthält eine nicht viel genauere Erleuterung aller Errors, die beim Validieren auftauchen können

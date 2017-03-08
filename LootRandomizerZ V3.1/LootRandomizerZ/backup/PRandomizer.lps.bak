@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="9"/>
+    <BuildModes Active="Default"/>
+    <Units Count="4">
+      <Unit0>
+        <Filename Value="PRandomizer.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="88"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="urandomizer.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="URandomizer"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="670"/>
+        <CursorPos Y="882"/>
+        <FoldState Value=" T7EB! T3jC0{~6 pkDoJ0@2 pj4kZ0G]IiYjL08[I48jM0{13]Jdl00C[94ajD0X2a"/>
+        <UsageCount Value="88"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="E:\Lazarus\lcl\include\control.inc"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="2702"/>
+        <CursorPos Y="2724"/>
+        <UsageCount Value="15"/>
+        <Loaded Value="True"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="E:\Lazarus\lcl\interfaces\win32\win32listsl.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="234"/>
+        <CursorPos Y="167"/>
+        <UsageCount Value="14"/>
+      </Unit3>
+    </Units>
+    <JumpHistory Count="30" HistoryIndex="29">
+      <Position1>
+        <Filename Value="urandomizer.pas"/>
+        <Caret Line="725" Column="30" TopLine="710"/>
+      </Position1>
+      <Position2>
+        <Filename Value="urandomizer.pas"/>
+        <Caret Line="1046" Column="31" TopLine="1009"/>
+      </Position2>
+      <Position3>
+        <Filename Value="urandomizer.pas"/>
+        <Caret Line="723" Column="40" TopLine="607"/>
+      </Position3>
+      <Position4>
+        <Filename Value="urandomizer.pas"/>
+        <Caret Line="1088" Column="31" TopLine="1057"/>
+      </Position4>
+      <Position5>
+        <Filename Value="urandomizer.pas"/>
+        <Caret Line="172" Column="18" TopLine="158"/>
+      </Position5>
+      <Position6>
+        <Filename Value="urandomizer.pas"/>
+        <Caret Line="1086" Column="30" TopLine="1059"/>
+      </Position6>
+      <Position7>
+        <Filename Value="urandomizer.pas"/>
+        <Caret Line="1089" Column="27" TopLine="811"/>
+      </Position7>
+      <Position8>
+        <Filename Value="urandomizer.pas"/>
+        <Caret Line="852" Column="19" TopLine="778"/>
+      </Position8>
+      <Position9>
+        <Filename Value="urandomizer.pas"/>
+        <Caret Line="939" Column="23" TopLine="853"/>
+      </Position9>
+      <Position10>
+        <Filename Value="urandomizer.pas"/>
+        <Caret Line="1034" TopLine="294"/>
+      </Position10>
+      <Position11>
+        <Filename Value="urandomizer.pas"/>
+        <Caret Line="1041" TopLine="571"/>
+      </Position11>
+      <Position12>
+        <Filename Value="urandomizer.pas"/>
+        <Caret Line="339" Column="59" TopLine="93"/>
+      </Position12>
+      <Position13>
+        <Filename Value="urandomizer.pas"/>
+        <Caret Line="347" Column="26" TopLine="301"/>
+      </Position13>
+      <Position14>
+        <Filename Value="urandomizer.pas"/>
+        <Caret Line="330" Column="14" TopLine="301"/>
+      </Position14>
+      <Position15>
+        <Filename Value="urandomizer.pas"/>
+        <Caret Line="347" Column="12" TopLine="301"/>
+      </Position15>
+      <Position16>
+        <Filename Value="urandomizer.pas"/>
+        <Caret Line="394" Column="37" TopLine="342"/>
+      </Position16>
+      <Position17>
+        <Filename Value="urandomizer.pas"/>
+        <Caret Line="205" Column="31" TopLine="179"/>
+      </Position17>
+      <Position18>
+        <Filename Value="urandomizer.pas"/>
+        <Caret Line="353" Column="12" TopLine="326"/>
+      </Position18>
+      <Position19>
+        <Filename Value="urandomizer.pas"/>
+        <Caret Line="358" Column="39" TopLine="332"/>
+      </Position19>
+      <Position20>
+        <Filename Value="urandomizer.pas"/>
+        <Caret Line="379" Column="51" TopLine="339"/>
+      </Position20>
+      <Position21>
+        <Filename Value="urandomizer.pas"/>
+        <Caret Line="369" Column="49" TopLine="343"/>
+      </Position21>
+      <Position22>
+        <Filename Value="urandomizer.pas"/>
+        <Caret Line="376" Column="11" TopLine="349"/>
+      </Position22>
+      <Position23>
+        <Filename Value="urandomizer.pas"/>
+        <Caret Line="386" Column="58" TopLine="361"/>
+      </Position23>
+      <Position24>
+        <Filename Value="urandomizer.pas"/>
+        <Caret Line="80" Column="41" TopLine="42"/>
+      </Position24>
+      <Position25>
+        <Filename Value="urandomizer.pas"/>
+        <Caret Line="386" Column="23" TopLine="357"/>
+      </Position25>
+      <Position26>
+        <Filename Value="urandomizer.pas"/>
+        <Caret Line="365" Column="10" TopLine="301"/>
+      </Position26>
+      <Position27>
+        <Filename Value="urandomizer.pas"/>
+        <Caret Line="400" Column="42" TopLine="361"/>
+      </Position27>
+      <Position28>
+        <Filename Value="urandomizer.pas"/>
+        <Caret Line="393" Column="113" TopLine="361"/>
+      </Position28>
+      <Position29>
+        <Filename Value="urandomizer.pas"/>
+        <Caret Line="377" Column="8" TopLine="363"/>
+      </Position29>
+      <Position30>
+        <Filename Value="urandomizer.pas"/>
+        <Caret Line="216" Column="64" TopLine="202"/>
+      </Position30>
+    </JumpHistory>
+  </ProjectSession>
+  <Debugging>
+    <BreakPoints Count="1">
+      <Item1>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="E:\Lazarus\lcl\include\control.inc"/>
+        <Line Value="2710"/>
+      </Item1>
+    </BreakPoints>
+  </Debugging>
+</CONFIG>

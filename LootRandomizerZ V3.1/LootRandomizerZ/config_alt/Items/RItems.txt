@@ -1,0 +1,9 @@
+Derber Stock_[$;#2]
+Kissen
+Brille_[~]
+Snackbar_[(1,3)]
+Guertel_[~;#2]
+Beef_[(1,2)]
+Sweatshirt_[~#2]
+Holzspeer_[$]
+Chips

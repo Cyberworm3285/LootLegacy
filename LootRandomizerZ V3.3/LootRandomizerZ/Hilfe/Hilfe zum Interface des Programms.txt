@@ -1,0 +1,71 @@
+Das Interface besteht aus Arsch-vielen Elementen, oftmals zusammengehˆren.
+
+Loot!:
+-erstellt mit den gegebenen Parametern ein Set von items (linkes Feld)
+-das Textfeld neben 'Quelle' MUSS eine Nummer eines eingetragenen GegnerZz enthalten
+-alle anderen Felder sind optional
+ ->Anzahl: setzt die Anzahl unabh‰ngig von dem Zufallswerte fest
+ ->Gebiet: falls es in diesem Gebiet Exklusive Items gibt muss dieses hier eingetragen werden
+ ->Rarity: setzt die Unter- und Obergrenze der Seltenheit fest (0-4) 
+   ->zwei mal die gleiche Zahl ist dementsprechend genau diese Seltenheit
+ ->Type:setzt das Item unabh‰ngig von dem Zufallswert fest
+ ->Checkbox (R¸stung,Waffe,Alles): filtert die Items nach dem ausgew‰hlten Filter
+-alle Berechnungen,Fehlermeldungen Randomwerte werden im rechten Feld angezeigt
+ 
+GetEffect:
+-erstellt einen zuf‰lligen legend‰ren Effekt
+-mit den Checkboxes lassen sich die Effekte auf ein Art beschr‰nken (Waffe,R¸stung)
+
+Random:
+-tr‰gt zuf‰llige Werte in die Felder Anzahl und quelle ein und aktiviert 'Loot!'
+
+Initialisieren:
+-liest alle Konfigurationsdateien ein und macht diese f¸r das Programm benutzbar
+-(essentiell f¸r fast alle Funtionen)
+
+'Das Rechteck':
+-wenn das Rechteck weiﬂ ist, so ist das Programm noch nicht initialisiert,
+ ansonsten erscheint es Gr¸n
+
+Clear:
+-s‰ubert beide AnzeigeFelder, bet‰tigt aber vorher 'Save'
+
+Save:
+-speichert beide Anzeigefelder in den Save- Ordner (..\save\xxxx.txt),
+ wobei der Name aus der aktuellen Zeit entsteht (Format: DD:MM:YY:HH:MM:SS)
+-die linke Anzeige erh‰lt den Pr‰fix 'Item', die Rechte 'log'
+
+Typen:
+-listet alle Typen unter der Beachtung des  eingetragenen Filters und Gebietes auf (rechtes Feld)
+
+Gebiete:
+-listet alle Namen der Gebiete mit dazugehˆriger Nummer auf (rechtes Feld)
+
+Selteneheit:
+-listet alle Namen der Seltenheiten auf (rechtes Feld)
+
+Quelle:
+-listet alle Gegnertypen mit dazugehˆriger Zahl auf (rechtes Feld)
+
+W6:
+-zeigt einen zuf‰lligen Wert eines W6-W¸rfels an
+
+W20
+-zeigt einen zuf‰lligen Wert eines W20 W¸rfels an
+
+K¸rzer:
+-verk¸rzt das Fenster
+
+L‰nger
+-verl‰ngert das Fenster
+
+Validieren:
+-geht ALLE Items durch und untersucht diese auf Fehler 
+ (nicht 100% zuverl‰ssig wenn kein Fehler angezeigt wird, aber wenn doch dann auf jeden Fall was kaputt)
+ ->rechtes Feld
+-gibbet nemmer
+
+viel Spaﬂ :)
+ 
+
+ 

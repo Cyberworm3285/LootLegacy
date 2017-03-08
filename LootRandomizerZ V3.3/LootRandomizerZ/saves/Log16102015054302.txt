@@ -1,0 +1,38 @@
+----------------
+Unbekannte Quelle! (-3..4)
+abbruch!
+Beginne Generierung!
+Es werden 4 Items erstellt (2;4)
+<<->>
+Erzeuge Seltenheit..
+Modifiziere Rdm Werte (151-250)
+Randomizer ergibt: 179
+150<rdm>253 ->Crap!
+Item erhaelt Seltenheit: Crap!
+Erzeuge Itemtyp..
+Crap! bleibt Crap!
+<<->>
+Erzeuge Seltenheit..
+Modifiziere Rdm Werte (151-250)
+Randomizer ergibt: 204
+150<rdm>253 ->Crap!
+Item erhaelt Seltenheit: Crap!
+Erzeuge Itemtyp..
+Crap! bleibt Crap!
+<<->>
+Erzeuge Seltenheit..
+Modifiziere Rdm Werte (151-250)
+Randomizer ergibt: 215
+150<rdm>253 ->Crap!
+Item erhaelt Seltenheit: Crap!
+Erzeuge Itemtyp..
+Crap! bleibt Crap!
+<<->>
+Erzeuge Seltenheit..
+Modifiziere Rdm Werte (151-250)
+Randomizer ergibt: 167
+150<rdm>253 ->Crap!
+Item erhaelt Seltenheit: Crap!
+Erzeuge Itemtyp..
+Crap! bleibt Crap!
+----------------------

@@ -1,0 +1,13 @@
+23:04:52||Dildo|Legendary!|191Dmg|5 Parade|GW(1)|CH(1)| x(2)|Raumschiff
+Diese Waffe macht blind
+23:05:02||Dildo|Legendary!|360Dmg|4 Parade|AD(3)|AD(4)| x(1)|Unteren Ebenen
+Diese Waffe macht durstig
+--2 Items--
+23:05:22||krasse Kunais|Legendary!|Dmg|3 Parade|GW(3)|MB(2)|AD(2)| x(5)|Unteren Ebenen
+Diese Waffe macht verzweifelt
+23:05:22||krasse Kunais|Legendary!|Dmg|5 Parade|GK(2)|KK(4)|CH(1)| x(1)|Unteren Ebenen
+Diese Waffe macht lesbisch
+--Ende--
+23:05:27||krasse Kunais|Legendary!|Dmg|4 Parade|GW(4)|INT(4)|AD(4)| x(3)|Unteren Ebenen
+Diese Waffe macht durstig
+

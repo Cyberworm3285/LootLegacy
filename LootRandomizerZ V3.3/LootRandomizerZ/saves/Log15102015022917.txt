@@ -1,0 +1,47 @@
+----Validieren----
+Normal:
+Item Geschaerfte Kruecke ist sauber!
+Item Old-School Jagdgewehr ist sauber!
+Item Uralt Karabiner ist sauber!
+Item Rost Revolver ist sauber!
+Item Kartoffelsack ist sauber!
+Item Wasser ist sauber!
+Item Fancy Handschuhe ist sauber!
+Item Kieselsteine ist sauber!
+Item Apfel ist sauber!
+Selten:
+Item / Vibroschwert ist sauber!
+Item Praezisionsgewehr ist sauber!
+Item Militaer-Sturmgewehr ist sauber!
+Item Standart Pistole ist sauber!
+Item Stahlplattenpanzter ist sauber!
+Item Schulterpanzer ist sauber!
+Item Glasscherben ist sauber!
+Item Krombacher ist sauber!
+Item Berensen Waldguelle ist sauber!
+Item Medipack ist sauber!
+Sehr Selten:
+Item NeoSamurai Katana ist sauber!
+Item MKS Scharfschuetzengewehr ist sauber!
+Item Spec-Ops Sturmkarabiner ist sauber!
+Item Elite-Pistole ist sauber!
+Item Schuh of Doom ist sauber!
+Item Backfisch ist sauber!
+Item Schere ist sauber!
+Item Erzquell ist sauber!
+Item Kithara ist sauber!
+Item Kunai ist sauber!
+Item Effekt Reset ist sauber!
+Item Ueberbruecker ist sauber!
+Legendary:
+Item Plasmawurfklingen ist sauber!
+Item Neutronium Duellierklinge ist sauber!
+Item 'Der ferne Tod' Sniper ist sauber!
+Item 'Der Kopf-Desintigrator' Gewehr ist sauber!
+Item 'Kompakte Vernichtung' Pistole ist sauber!
+XXXXXXXXXXXXXXXXXXXX
+Bei Item Ouzo 12 gibt es Fehler(1):
+Ungültige Gebietskonfig!(E1)(9)
+Item Waffen Effekt Mod ist sauber!
+Item Ruestung Effekt Mod ist sauber!
+Item Random Effekt Mod ist sauber!

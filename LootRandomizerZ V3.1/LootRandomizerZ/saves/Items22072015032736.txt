@@ -1,0 +1,6 @@
+Crap!
+Crap!
+03:26:56||Zahnstocher|Normal |0Dmg|1 Parade| x(12)|Raumschiff
+03:26:57||Holzspeer|Selten|24Dmg|2 Parade|Nazi-Base
+03:27:11||Guertel|Selten|6DmgReduction|KK(3)|GK(4)|Rebellenbase
+

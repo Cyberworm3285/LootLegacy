@@ -1,0 +1,14 @@
+Initialisiere Randomizer..
+Erstelle Stringlists..
+Erstmaliges leeren..
+Einlesen der cfg Dateien..
+Es wurden 7 Rüstungseffekte gefunden!
+Es wurden 17 Waffeneffekte gefunden!
+Es wurden 9 Lootquellen gefunden!
+Es wurden 5 Einträge gefunden!
+Es wurden 9 normale Items gefunden!
+Es wurden 10 seltene Items gefunden!
+Es wurden 12 sehr seltene Items gefunden!
+Es wurden 10 legendäre Items gefunden!
+Es wurden 4 Gebiete gefunden!
+Erfolgreich initialsiert!

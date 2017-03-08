@@ -1,0 +1,14 @@
+--10 Items--
+05:44:34||Schere|Sehr Selten|
+Crap!
+05:44:34||Old-School Jagdgewehr|Normal |3Dmg|3 Parade|
+05:44:34||Kieselsteine|Normal |4Dmg|4 Parade| x(2)|
+Crap!
+05:44:34||Geschaerfte Kruecke|Normal |3Dmg|5 Parade|
+Crap!
+05:44:34||Neutronium Duellierklinge|Legendary!|11Dmg|5 Parade|GK(2)|CH(1)|GK(2)|
+Diese Waffe macht blutdurstig
+05:44:34||Uralt Karabiner|Normal |2Dmg|1 Parade|
+05:44:34||Apfel|Normal |
+--Ende--
+

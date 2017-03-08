@@ -1,0 +1,9 @@
+Plasmawurfklingen_[$;#3;(5,5);{13-15}]
+Neutronium Duellierklinge_[$;#3;{10-12}]
+'Der ferne Tod' Sniper_[$;#3;{11-15}]
+'Der Kopf?-Desintigrator' Gewehr_[$;#3;{10-12}]
+'Kompakte Vernichtung' Pistole_[$;#3;{10-12}]
+Ouzo ?1?2_[#2]
+Waffen Effekt Mod
+Ruestung Effekt Mod
+Random Effekt Mod

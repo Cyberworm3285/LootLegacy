@@ -1,0 +1,1136 @@
+----------------
+Normal :
+1: Geschaerfte Kruecke_[$;{0-3}]
+2: Old?-School Jagdgewehr_[$;{1-4}]
+3: Uralt Karabiner_[$;{0-3}]
+4: Rost Revolver_[$;{0-3}]
+5: Kartoffelsack_[~;{2-2}]
+6: Wasser_[(1,3)]
+7: Fancy Handschuhe_[#1]
+8: Kieselsteine[(2,4);$;{2-4}]
+9: Apfel
+Selten:
+1: 08?/15 Vibroschwert_[$;#1;{2-6}]
+2: Praezisionsgewehr_[$;#1;{2-8}]
+3: Militaer?-Sturmgewehr_[$;#1;{2-6}]
+4: Standart Pistole_[$;#1;{2-6}]
+5: Stahlplattenpanzter_[~;#1;{2-4}]
+6: Schulterpanzer_[~;{2-2}]
+7: Glasscherben_[$;(3,5);{3-7}]
+8: Krombacher_[(1,3)]
+9: Berensen Waldguelle
+10: Medipack_[(1,3)]
+Sehr Selten:
+1: NeoSamurai Katana_[$;#2;{6-9}]
+2: MKS Scharfschuetzengewehr_[$;#2;{7-11}]
+3: Spec?-Ops Sturmkarabiner_[$;#2;{6-9}]
+4: Elite?-Pistole_[$;#2;{6-9}]
+5: Schuh of Doom_[~;#1;{2-3}]
+6: Backfisch_[(1,3)]
+7: Schere
+8: Erzquell_[(1,3)]
+9: Kithara_[#1]
+10: Kunai_[(4,6);$;{8-12}]
+11: Effekt Reset
+12: Ueberbruecker_[(1,2)]
+Legendary!:
+1: Plasmawurfklingen_[$;#3;(5,5);{13-15}]
+2: Neutronium Duellierklinge_[$;#3;{10-12}]
+3: 'Der ferne Tod' Sniper_[$;#3;{11-15}]
+4: 'Der Kopf?-Desintigrator' Gewehr_[$;#3;{10-12}]
+5: 'Kompakte Vernichtung' Pistole_[$;#3;{10-12}]
+6: Ouzo ?1?2_[#2;{10-20}]
+7: Waffen Effekt Mod
+8: Ruestung Effekt Mod
+9: Random Effekt Mod
+10: ITEM GELÖSCHT
+Beginne Generierung!
+Es werden 10 Items erstellt
+<<->>
+Erzeuge Seltenheit..
+Modifiziere Rdm Werte (0-4)
+Randomizer ergibt: 3
+(-3)<rdm>5 ->Legendary!
+Item erhaelt Seltenheit: Legendary!
+Erzeuge Itemtyp..
+Filtere Itemliste...
+Es wurde/n 0 Item/s aussortiert!
+Es wurde/n 0 Treffer gefunden!
+Es sind 10 Items ungetagged!
+Randomizer ergibt: 9 -> ITEM GELÖSCHT
+Ignoriere Ergebnis..
+Erzwungener Itemtyp: ITEM GELÖSCHT
+Fisch aufm Tisch,
+Legendary Shit! :)
+<<->>
+Erzeuge Seltenheit..
+Modifiziere Rdm Werte (0-4)
+Randomizer ergibt: 1
+(-3)<rdm>5 ->Legendary!
+Item erhaelt Seltenheit: Legendary!
+Erzeuge Itemtyp..
+Filtere Itemliste...
+Es wurde/n 0 Item/s aussortiert!
+Es wurde/n 0 Treffer gefunden!
+Es sind 10 Items ungetagged!
+Randomizer ergibt: 8 -> Random Effekt Mod
+Ignoriere Ergebnis..
+Erzwungener Itemtyp: ITEM GELÖSCHT
+Fisch aufm Tisch,
+Legendary Shit! :)
+<<->>
+Erzeuge Seltenheit..
+Modifiziere Rdm Werte (0-4)
+Randomizer ergibt: 3
+(-3)<rdm>5 ->Legendary!
+Item erhaelt Seltenheit: Legendary!
+Erzeuge Itemtyp..
+Filtere Itemliste...
+Es wurde/n 0 Item/s aussortiert!
+Es wurde/n 0 Treffer gefunden!
+Es sind 10 Items ungetagged!
+Randomizer ergibt: 7 -> Ruestung Effekt Mod
+Ignoriere Ergebnis..
+Erzwungener Itemtyp: ITEM GELÖSCHT
+Fisch aufm Tisch,
+Legendary Shit! :)
+<<->>
+Erzeuge Seltenheit..
+Modifiziere Rdm Werte (0-4)
+Randomizer ergibt: 1
+(-3)<rdm>5 ->Legendary!
+Item erhaelt Seltenheit: Legendary!
+Erzeuge Itemtyp..
+Filtere Itemliste...
+Es wurde/n 0 Item/s aussortiert!
+Es wurde/n 0 Treffer gefunden!
+Es sind 10 Items ungetagged!
+Randomizer ergibt: 9 -> ITEM GELÖSCHT
+Ignoriere Ergebnis..
+Erzwungener Itemtyp: ITEM GELÖSCHT
+Fisch aufm Tisch,
+Legendary Shit! :)
+<<->>
+Erzeuge Seltenheit..
+Modifiziere Rdm Werte (0-4)
+Randomizer ergibt: 1
+(-3)<rdm>5 ->Legendary!
+Item erhaelt Seltenheit: Legendary!
+Erzeuge Itemtyp..
+Filtere Itemliste...
+Es wurde/n 0 Item/s aussortiert!
+Es wurde/n 0 Treffer gefunden!
+Es sind 10 Items ungetagged!
+Randomizer ergibt: 3 -> 'Der Kopf?-Desintigrator' Gewehr_[$;#3;{10-12}]
+Ignoriere Ergebnis..
+Erzwungener Itemtyp: ITEM GELÖSCHT
+Fisch aufm Tisch,
+Legendary Shit! :)
+<<->>
+Erzeuge Seltenheit..
+Modifiziere Rdm Werte (0-4)
+Randomizer ergibt: 1
+(-3)<rdm>5 ->Legendary!
+Item erhaelt Seltenheit: Legendary!
+Erzeuge Itemtyp..
+Filtere Itemliste...
+Es wurde/n 0 Item/s aussortiert!
+Es wurde/n 0 Treffer gefunden!
+Es sind 10 Items ungetagged!
+Randomizer ergibt: 4 -> 'Kompakte Vernichtung' Pistole_[$;#3;{10-12}]
+Ignoriere Ergebnis..
+Erzwungener Itemtyp: ITEM GELÖSCHT
+Fisch aufm Tisch,
+Legendary Shit! :)
+<<->>
+Erzeuge Seltenheit..
+Modifiziere Rdm Werte (0-4)
+Randomizer ergibt: 1
+(-3)<rdm>5 ->Legendary!
+Item erhaelt Seltenheit: Legendary!
+Erzeuge Itemtyp..
+Filtere Itemliste...
+Es wurde/n 0 Item/s aussortiert!
+Es wurde/n 0 Treffer gefunden!
+Es sind 10 Items ungetagged!
+Randomizer ergibt: 2 -> 'Der ferne Tod' Sniper_[$;#3;{11-15}]
+Ignoriere Ergebnis..
+Erzwungener Itemtyp: ITEM GELÖSCHT
+Fisch aufm Tisch,
+Legendary Shit! :)
+<<->>
+Erzeuge Seltenheit..
+Modifiziere Rdm Werte (0-4)
+Randomizer ergibt: 1
+(-3)<rdm>5 ->Legendary!
+Item erhaelt Seltenheit: Legendary!
+Erzeuge Itemtyp..
+Filtere Itemliste...
+Es wurde/n 0 Item/s aussortiert!
+Es wurde/n 0 Treffer gefunden!
+Es sind 10 Items ungetagged!
+Randomizer ergibt: 2 -> 'Der ferne Tod' Sniper_[$;#3;{11-15}]
+Ignoriere Ergebnis..
+Erzwungener Itemtyp: ITEM GELÖSCHT
+Fisch aufm Tisch,
+Legendary Shit! :)
+<<->>
+Erzeuge Seltenheit..
+Modifiziere Rdm Werte (0-4)
+Randomizer ergibt: 4
+(-3)<rdm>5 ->Legendary!
+Item erhaelt Seltenheit: Legendary!
+Erzeuge Itemtyp..
+Filtere Itemliste...
+Es wurde/n 0 Item/s aussortiert!
+Es wurde/n 0 Treffer gefunden!
+Es sind 10 Items ungetagged!
+Randomizer ergibt: 6 -> Waffen Effekt Mod
+Ignoriere Ergebnis..
+Erzwungener Itemtyp: ITEM GELÖSCHT
+Fisch aufm Tisch,
+Legendary Shit! :)
+<<->>
+Erzeuge Seltenheit..
+Modifiziere Rdm Werte (0-4)
+Randomizer ergibt: 3
+(-3)<rdm>5 ->Legendary!
+Item erhaelt Seltenheit: Legendary!
+Erzeuge Itemtyp..
+Filtere Itemliste...
+Es wurde/n 0 Item/s aussortiert!
+Es wurde/n 0 Treffer gefunden!
+Es sind 10 Items ungetagged!
+Randomizer ergibt: 5 -> Ouzo ?1?2_[#2;{10-20}]
+Ignoriere Ergebnis..
+Erzwungener Itemtyp: ITEM GELÖSCHT
+Fisch aufm Tisch,
+Legendary Shit! :)
+----------------------
+Beginne Generierung!
+Es werden 10 Items erstellt
+<<->>
+Erzeuge Seltenheit..
+Modifiziere Rdm Werte (0-4)
+Randomizer ergibt: 4
+(-3)<rdm>5 ->Legendary!
+Item erhaelt Seltenheit: Legendary!
+Erzeuge Itemtyp..
+Filtere Itemliste...
+Es wurde/n 0 Item/s aussortiert!
+Es wurde/n 0 Treffer gefunden!
+Es sind 10 Items ungetagged!
+Randomizer ergibt: 1 -> Neutronium Duellierklinge_[$;#3;{10-12}]
+säubere Itemname..
+Neutronium Duellierklinge_[$;#3;{10-12}] -> Neutronium Duellierklinge
+Erzeuge genaue Werte..
+-> 10
+Erzeuge Attribute..
+Es werden 3 Attribute erzeugt!
+<<<<>>>>
+normales Attribut (0)
+Normal (CH)
+<<<<>>>>
+normales Attribut (0)
+Normal (AD)
+<<<<>>>>
+normales Attribut (0)
+Normal (AD)
+<<<<>>>>
+Fisch aufm Tisch,
+Legendary Shit! :)
+<<->>
+Erzeuge Seltenheit..
+Modifiziere Rdm Werte (0-4)
+Randomizer ergibt: 3
+(-3)<rdm>5 ->Legendary!
+Item erhaelt Seltenheit: Legendary!
+Erzeuge Itemtyp..
+Filtere Itemliste...
+Es wurde/n 0 Item/s aussortiert!
+Es wurde/n 0 Treffer gefunden!
+Es sind 10 Items ungetagged!
+Randomizer ergibt: 4 -> 'Kompakte Vernichtung' Pistole_[$;#3;{10-12}]
+säubere Itemname..
+'Kompakte Vernichtung' Pistole_[$;#3;{10-12}] -> 'Kompakte Vernichtung' Pistole
+Erzeuge genaue Werte..
+-> 10
+Erzeuge Attribute..
+Es werden 3 Attribute erzeugt!
+<<<<>>>>
+normales Attribut (0)
+Normal (MB)
+<<<<>>>>
+normales Attribut (0)
+Normal (AD)
+<<<<>>>>
+normales Attribut (0)
+Normal (AD)
+<<<<>>>>
+Fisch aufm Tisch,
+Legendary Shit! :)
+<<->>
+Erzeuge Seltenheit..
+Modifiziere Rdm Werte (0-4)
+Randomizer ergibt: 1
+(-3)<rdm>5 ->Legendary!
+Item erhaelt Seltenheit: Legendary!
+Erzeuge Itemtyp..
+Filtere Itemliste...
+Es wurde/n 0 Item/s aussortiert!
+Es wurde/n 0 Treffer gefunden!
+Es sind 10 Items ungetagged!
+Randomizer ergibt: 6 -> Waffen Effekt Mod
+Fisch aufm Tisch,
+Legendary Shit! :)
+<<->>
+Erzeuge Seltenheit..
+Modifiziere Rdm Werte (0-4)
+Randomizer ergibt: 3
+(-3)<rdm>5 ->Legendary!
+Item erhaelt Seltenheit: Legendary!
+Erzeuge Itemtyp..
+Filtere Itemliste...
+Es wurde/n 0 Item/s aussortiert!
+Es wurde/n 0 Treffer gefunden!
+Es sind 10 Items ungetagged!
+Randomizer ergibt: 8 -> Random Effekt Mod
+Fisch aufm Tisch,
+Legendary Shit! :)
+<<->>
+Erzeuge Seltenheit..
+Modifiziere Rdm Werte (0-4)
+Randomizer ergibt: 1
+(-3)<rdm>5 ->Legendary!
+Item erhaelt Seltenheit: Legendary!
+Erzeuge Itemtyp..
+Filtere Itemliste...
+Es wurde/n 0 Item/s aussortiert!
+Es wurde/n 0 Treffer gefunden!
+Es sind 10 Items ungetagged!
+Randomizer ergibt: 5 -> Ouzo ?1?2_[#2;{10-20}]
+säubere Itemname..
+Ouzo ?1?2_[#2;{10-20}] -> Ouzo 12
+filtere Sonderzeichen..
+Ouzo ?1?2_[#2;{10-20}] -> Ouzo ?X?X_[#2;{10-20}]
+Erzeuge genaue Werte..
+-> 18
+Erzeuge Attribute..
+Es werden 2 Attribute erzeugt!
+<<<<>>>>
+normales Attribut (0)
+Normal (AD)
+<<<<>>>>
+normales Attribut (0)
+Normal (CH)
+<<<<>>>>
+Fisch aufm Tisch,
+Legendary Shit! :)
+<<->>
+Erzeuge Seltenheit..
+Modifiziere Rdm Werte (0-4)
+Randomizer ergibt: 3
+(-3)<rdm>5 ->Legendary!
+Item erhaelt Seltenheit: Legendary!
+Erzeuge Itemtyp..
+Filtere Itemliste...
+Es wurde/n 0 Item/s aussortiert!
+Es wurde/n 0 Treffer gefunden!
+Es sind 10 Items ungetagged!
+Randomizer ergibt: 9 -> ITEM GELÖSCHT
+Fisch aufm Tisch,
+Legendary Shit! :)
+<<->>
+Erzeuge Seltenheit..
+Modifiziere Rdm Werte (0-4)
+Randomizer ergibt: 1
+(-3)<rdm>5 ->Legendary!
+Item erhaelt Seltenheit: Legendary!
+Erzeuge Itemtyp..
+Filtere Itemliste...
+Es wurde/n 0 Item/s aussortiert!
+Es wurde/n 0 Treffer gefunden!
+Es sind 10 Items ungetagged!
+Randomizer ergibt: 7 -> Ruestung Effekt Mod
+Fisch aufm Tisch,
+Legendary Shit! :)
+<<->>
+Erzeuge Seltenheit..
+Modifiziere Rdm Werte (0-4)
+Randomizer ergibt: 1
+(-3)<rdm>5 ->Legendary!
+Item erhaelt Seltenheit: Legendary!
+Erzeuge Itemtyp..
+Filtere Itemliste...
+Es wurde/n 0 Item/s aussortiert!
+Es wurde/n 0 Treffer gefunden!
+Es sind 10 Items ungetagged!
+Randomizer ergibt: 8 -> Random Effekt Mod
+Fisch aufm Tisch,
+Legendary Shit! :)
+<<->>
+Erzeuge Seltenheit..
+Modifiziere Rdm Werte (0-4)
+Randomizer ergibt: 4
+(-3)<rdm>5 ->Legendary!
+Item erhaelt Seltenheit: Legendary!
+Erzeuge Itemtyp..
+Filtere Itemliste...
+Es wurde/n 0 Item/s aussortiert!
+Es wurde/n 0 Treffer gefunden!
+Es sind 10 Items ungetagged!
+Randomizer ergibt: 9 -> ITEM GELÖSCHT
+Fisch aufm Tisch,
+Legendary Shit! :)
+<<->>
+Erzeuge Seltenheit..
+Modifiziere Rdm Werte (0-4)
+Randomizer ergibt: 4
+(-3)<rdm>5 ->Legendary!
+Item erhaelt Seltenheit: Legendary!
+Erzeuge Itemtyp..
+Filtere Itemliste...
+Es wurde/n 0 Item/s aussortiert!
+Es wurde/n 0 Treffer gefunden!
+Es sind 10 Items ungetagged!
+Randomizer ergibt: 9 -> ITEM GELÖSCHT
+Fisch aufm Tisch,
+Legendary Shit! :)
+----------------------
+Beginne Generierung!
+Es werden 10 Items erstellt
+<<->>
+Erzeuge Seltenheit..
+Modifiziere Rdm Werte (0-4)
+Randomizer ergibt: 4
+(-3)<rdm>5 ->Legendary!
+Item erhaelt Seltenheit: Legendary!
+Erzeuge Itemtyp..
+Filtere Itemliste...
+Es wurde/n 0 Item/s aussortiert!
+Es wurde/n 0 Treffer gefunden!
+Es sind 10 Items ungetagged!
+Randomizer ergibt: 1 -> Neutronium Duellierklinge_[$;#3;{10-12}]
+säubere Itemname..
+Neutronium Duellierklinge_[$;#3;{10-12}] -> Neutronium Duellierklinge
+Erzeuge genaue Werte..
+-> 12
+Erzeuge Attribute..
+Es werden 3 Attribute erzeugt!
+<<<<>>>>
+normales Attribut (0)
+Normal (MB)
+<<<<>>>>
+normales Attribut (0)
+Normal (CH)
+<<<<>>>>
+normales Attribut (0)
+Normal (CH)
+<<<<>>>>
+Fisch aufm Tisch,
+Legendary Shit! :)
+<<->>
+Erzeuge Seltenheit..
+Modifiziere Rdm Werte (0-4)
+Randomizer ergibt: 3
+(-3)<rdm>5 ->Legendary!
+Item erhaelt Seltenheit: Legendary!
+Erzeuge Itemtyp..
+Filtere Itemliste...
+Es wurde/n 0 Item/s aussortiert!
+Es wurde/n 0 Treffer gefunden!
+Es sind 10 Items ungetagged!
+Randomizer ergibt: 4 -> 'Kompakte Vernichtung' Pistole_[$;#3;{10-12}]
+säubere Itemname..
+'Kompakte Vernichtung' Pistole_[$;#3;{10-12}] -> 'Kompakte Vernichtung' Pistole
+Erzeuge genaue Werte..
+-> 12
+Erzeuge Attribute..
+Es werden 3 Attribute erzeugt!
+<<<<>>>>
+normales Attribut (0)
+Normal (AD)
+<<<<>>>>
+normales Attribut (0)
+Normal (AD)
+<<<<>>>>
+normales Attribut (0)
+Normal (CH)
+<<<<>>>>
+Fisch aufm Tisch,
+Legendary Shit! :)
+<<->>
+Erzeuge Seltenheit..
+Modifiziere Rdm Werte (0-4)
+Randomizer ergibt: 1
+(-3)<rdm>5 ->Legendary!
+Item erhaelt Seltenheit: Legendary!
+Erzeuge Itemtyp..
+Filtere Itemliste...
+Es wurde/n 0 Item/s aussortiert!
+Es wurde/n 0 Treffer gefunden!
+Es sind 10 Items ungetagged!
+Randomizer ergibt: 3 -> 'Der Kopf?-Desintigrator' Gewehr_[$;#3;{10-12}]
+säubere Itemname..
+'Der Kopf?-Desintigrator' Gewehr_[$;#3;{10-12}] -> 'Der Kopf-Desintigrator' Gewehr
+filtere Sonderzeichen..
+'Der Kopf?-Desintigrator' Gewehr_[$;#3;{10-12}] -> 'Der Kopf?XDesintigrator' Gewehr_[$;#3;{10-12}]
+Erzeuge genaue Werte..
+-> 11
+Erzeuge Attribute..
+Es werden 3 Attribute erzeugt!
+<<<<>>>>
+normales Attribut (0)
+Normal (GW)
+<<<<>>>>
+normales Attribut (0)
+Normal (GW)
+<<<<>>>>
+normales Attribut (0)
+Normal (MB)
+<<<<>>>>
+Fisch aufm Tisch,
+Legendary Shit! :)
+<<->>
+Erzeuge Seltenheit..
+Modifiziere Rdm Werte (0-4)
+Randomizer ergibt: 2
+(-3)<rdm>5 ->Legendary!
+Item erhaelt Seltenheit: Legendary!
+Erzeuge Itemtyp..
+Filtere Itemliste...
+Es wurde/n 0 Item/s aussortiert!
+Es wurde/n 0 Treffer gefunden!
+Es sind 10 Items ungetagged!
+Randomizer ergibt: 7 -> Ruestung Effekt Mod
+Fisch aufm Tisch,
+Legendary Shit! :)
+<<->>
+Erzeuge Seltenheit..
+Modifiziere Rdm Werte (0-4)
+Randomizer ergibt: 3
+(-3)<rdm>5 ->Legendary!
+Item erhaelt Seltenheit: Legendary!
+Erzeuge Itemtyp..
+Filtere Itemliste...
+Es wurde/n 0 Item/s aussortiert!
+Es wurde/n 0 Treffer gefunden!
+Es sind 10 Items ungetagged!
+Randomizer ergibt: 1 -> Neutronium Duellierklinge_[$;#3;{10-12}]
+säubere Itemname..
+Neutronium Duellierklinge_[$;#3;{10-12}] -> Neutronium Duellierklinge
+Erzeuge genaue Werte..
+-> 10
+Erzeuge Attribute..
+Es werden 3 Attribute erzeugt!
+<<<<>>>>
+normales Attribut (0)
+Normal (CH)
+<<<<>>>>
+normales Attribut (0)
+Normal (CH)
+<<<<>>>>
+normales Attribut (0)
+Normal (MB)
+<<<<>>>>
+Fisch aufm Tisch,
+Legendary Shit! :)
+<<->>
+Erzeuge Seltenheit..
+Modifiziere Rdm Werte (0-4)
+Randomizer ergibt: 4
+(-3)<rdm>5 ->Legendary!
+Item erhaelt Seltenheit: Legendary!
+Erzeuge Itemtyp..
+Filtere Itemliste...
+Es wurde/n 0 Item/s aussortiert!
+Es wurde/n 0 Treffer gefunden!
+Es sind 10 Items ungetagged!
+Randomizer ergibt: 8 -> Random Effekt Mod
+Fisch aufm Tisch,
+Legendary Shit! :)
+<<->>
+Erzeuge Seltenheit..
+Modifiziere Rdm Werte (0-4)
+Randomizer ergibt: 2
+(-3)<rdm>5 ->Legendary!
+Item erhaelt Seltenheit: Legendary!
+Erzeuge Itemtyp..
+Filtere Itemliste...
+Es wurde/n 0 Item/s aussortiert!
+Es wurde/n 0 Treffer gefunden!
+Es sind 10 Items ungetagged!
+Randomizer ergibt: 9 -> ITEM GELÖSCHT
+Fisch aufm Tisch,
+Legendary Shit! :)
+<<->>
+Erzeuge Seltenheit..
+Modifiziere Rdm Werte (0-4)
+Randomizer ergibt: 2
+(-3)<rdm>5 ->Legendary!
+Item erhaelt Seltenheit: Legendary!
+Erzeuge Itemtyp..
+Filtere Itemliste...
+Es wurde/n 0 Item/s aussortiert!
+Es wurde/n 0 Treffer gefunden!
+Es sind 10 Items ungetagged!
+Randomizer ergibt: 5 -> Ouzo ?1?2_[#2;{10-20}]
+säubere Itemname..
+Ouzo ?1?2_[#2;{10-20}] -> Ouzo 12
+filtere Sonderzeichen..
+Ouzo ?1?2_[#2;{10-20}] -> Ouzo ?X?X_[#2;{10-20}]
+Erzeuge genaue Werte..
+-> 12
+Erzeuge Attribute..
+Es werden 2 Attribute erzeugt!
+<<<<>>>>
+normales Attribut (0)
+Normal (MB)
+<<<<>>>>
+normales Attribut (0)
+Normal (GW)
+<<<<>>>>
+Fisch aufm Tisch,
+Legendary Shit! :)
+<<->>
+Erzeuge Seltenheit..
+Modifiziere Rdm Werte (0-4)
+Randomizer ergibt: 2
+(-3)<rdm>5 ->Legendary!
+Item erhaelt Seltenheit: Legendary!
+Erzeuge Itemtyp..
+Filtere Itemliste...
+Es wurde/n 0 Item/s aussortiert!
+Es wurde/n 0 Treffer gefunden!
+Es sind 10 Items ungetagged!
+Randomizer ergibt: 5 -> Ouzo ?1?2_[#2;{10-20}]
+säubere Itemname..
+Ouzo ?1?2_[#2;{10-20}] -> Ouzo 12
+filtere Sonderzeichen..
+Ouzo ?1?2_[#2;{10-20}] -> Ouzo ?X?X_[#2;{10-20}]
+Erzeuge genaue Werte..
+-> 10
+Erzeuge Attribute..
+Es werden 2 Attribute erzeugt!
+<<<<>>>>
+normales Attribut (0)
+Normal (CH)
+<<<<>>>>
+normales Attribut (0)
+Normal (MB)
+<<<<>>>>
+Fisch aufm Tisch,
+Legendary Shit! :)
+<<->>
+Erzeuge Seltenheit..
+Modifiziere Rdm Werte (0-4)
+Randomizer ergibt: 2
+(-3)<rdm>5 ->Legendary!
+Item erhaelt Seltenheit: Legendary!
+Erzeuge Itemtyp..
+Filtere Itemliste...
+Es wurde/n 0 Item/s aussortiert!
+Es wurde/n 0 Treffer gefunden!
+Es sind 10 Items ungetagged!
+Randomizer ergibt: 6 -> Waffen Effekt Mod
+Fisch aufm Tisch,
+Legendary Shit! :)
+----------------------
+Beginne Generierung!
+Es werden 10 Items erstellt
+<<->>
+Erzeuge Seltenheit..
+Modifiziere Rdm Werte (151-250)
+Randomizer ergibt: 239
+150<rdm>253 ->Crap!
+Item erhaelt Seltenheit: Crap!
+Erzeuge Itemtyp..
+Crap! bleibt Crap!
+<<->>
+Erzeuge Seltenheit..
+Modifiziere Rdm Werte (151-250)
+Randomizer ergibt: 178
+150<rdm>253 ->Crap!
+Item erhaelt Seltenheit: Crap!
+Erzeuge Itemtyp..
+Crap! bleibt Crap!
+<<->>
+Erzeuge Seltenheit..
+Modifiziere Rdm Werte (151-250)
+Randomizer ergibt: 189
+150<rdm>253 ->Crap!
+Item erhaelt Seltenheit: Crap!
+Erzeuge Itemtyp..
+Crap! bleibt Crap!
+<<->>
+Erzeuge Seltenheit..
+Modifiziere Rdm Werte (151-250)
+Randomizer ergibt: 171
+150<rdm>253 ->Crap!
+Item erhaelt Seltenheit: Crap!
+Erzeuge Itemtyp..
+Crap! bleibt Crap!
+<<->>
+Erzeuge Seltenheit..
+Modifiziere Rdm Werte (151-250)
+Randomizer ergibt: 222
+150<rdm>253 ->Crap!
+Item erhaelt Seltenheit: Crap!
+Erzeuge Itemtyp..
+Crap! bleibt Crap!
+<<->>
+Erzeuge Seltenheit..
+Modifiziere Rdm Werte (151-250)
+Randomizer ergibt: 195
+150<rdm>253 ->Crap!
+Item erhaelt Seltenheit: Crap!
+Erzeuge Itemtyp..
+Crap! bleibt Crap!
+<<->>
+Erzeuge Seltenheit..
+Modifiziere Rdm Werte (151-250)
+Randomizer ergibt: 235
+150<rdm>253 ->Crap!
+Item erhaelt Seltenheit: Crap!
+Erzeuge Itemtyp..
+Crap! bleibt Crap!
+<<->>
+Erzeuge Seltenheit..
+Modifiziere Rdm Werte (151-250)
+Randomizer ergibt: 164
+150<rdm>253 ->Crap!
+Item erhaelt Seltenheit: Crap!
+Erzeuge Itemtyp..
+Crap! bleibt Crap!
+<<->>
+Erzeuge Seltenheit..
+Modifiziere Rdm Werte (151-250)
+Randomizer ergibt: 223
+150<rdm>253 ->Crap!
+Item erhaelt Seltenheit: Crap!
+Erzeuge Itemtyp..
+Crap! bleibt Crap!
+<<->>
+Erzeuge Seltenheit..
+Modifiziere Rdm Werte (151-250)
+Randomizer ergibt: 153
+150<rdm>253 ->Crap!
+Item erhaelt Seltenheit: Crap!
+Erzeuge Itemtyp..
+Crap! bleibt Crap!
+----------------------
+Beginne Generierung!
+Es werden 10 Items erstellt
+<<->>
+Erzeuge Seltenheit..
+Modifiziere Rdm Werte (151-250)
+Randomizer ergibt: 242
+150<rdm>253 ->Crap!
+Item erhaelt Seltenheit: Crap!
+Erzeuge Itemtyp..
+Crap! bleibt Crap!
+<<->>
+Erzeuge Seltenheit..
+Modifiziere Rdm Werte (151-250)
+Randomizer ergibt: 221
+150<rdm>253 ->Crap!
+Item erhaelt Seltenheit: Crap!
+Erzeuge Itemtyp..
+Crap! bleibt Crap!
+<<->>
+Erzeuge Seltenheit..
+Modifiziere Rdm Werte (151-250)
+Randomizer ergibt: 167
+150<rdm>253 ->Crap!
+Item erhaelt Seltenheit: Crap!
+Erzeuge Itemtyp..
+Crap! bleibt Crap!
+<<->>
+Erzeuge Seltenheit..
+Modifiziere Rdm Werte (151-250)
+Randomizer ergibt: 164
+150<rdm>253 ->Crap!
+Item erhaelt Seltenheit: Crap!
+Erzeuge Itemtyp..
+Crap! bleibt Crap!
+<<->>
+Erzeuge Seltenheit..
+Modifiziere Rdm Werte (151-250)
+Randomizer ergibt: 170
+150<rdm>253 ->Crap!
+Item erhaelt Seltenheit: Crap!
+Erzeuge Itemtyp..
+Crap! bleibt Crap!
+<<->>
+Erzeuge Seltenheit..
+Modifiziere Rdm Werte (151-250)
+Randomizer ergibt: 174
+150<rdm>253 ->Crap!
+Item erhaelt Seltenheit: Crap!
+Erzeuge Itemtyp..
+Crap! bleibt Crap!
+<<->>
+Erzeuge Seltenheit..
+Modifiziere Rdm Werte (151-250)
+Randomizer ergibt: 240
+150<rdm>253 ->Crap!
+Item erhaelt Seltenheit: Crap!
+Erzeuge Itemtyp..
+Crap! bleibt Crap!
+<<->>
+Erzeuge Seltenheit..
+Modifiziere Rdm Werte (151-250)
+Randomizer ergibt: 229
+150<rdm>253 ->Crap!
+Item erhaelt Seltenheit: Crap!
+Erzeuge Itemtyp..
+Crap! bleibt Crap!
+<<->>
+Erzeuge Seltenheit..
+Modifiziere Rdm Werte (151-250)
+Randomizer ergibt: 184
+150<rdm>253 ->Crap!
+Item erhaelt Seltenheit: Crap!
+Erzeuge Itemtyp..
+Crap! bleibt Crap!
+<<->>
+Erzeuge Seltenheit..
+Modifiziere Rdm Werte (151-250)
+Randomizer ergibt: 209
+150<rdm>253 ->Crap!
+Item erhaelt Seltenheit: Crap!
+Erzeuge Itemtyp..
+Crap! bleibt Crap!
+----------------------
+Beginne Generierung!
+Es werden 10 Items erstellt
+<<->>
+Erzeuge Seltenheit..
+Modifiziere Rdm Werte (151-250)
+Randomizer ergibt: 186
+150<rdm>253 ->Crap!
+Item erhaelt Seltenheit: Crap!
+Erzeuge Itemtyp..
+Crap! bleibt Crap!
+<<->>
+Erzeuge Seltenheit..
+Modifiziere Rdm Werte (151-250)
+Randomizer ergibt: 212
+150<rdm>253 ->Crap!
+Item erhaelt Seltenheit: Crap!
+Erzeuge Itemtyp..
+Crap! bleibt Crap!
+<<->>
+Erzeuge Seltenheit..
+Modifiziere Rdm Werte (151-250)
+Randomizer ergibt: 192
+150<rdm>253 ->Crap!
+Item erhaelt Seltenheit: Crap!
+Erzeuge Itemtyp..
+Crap! bleibt Crap!
+<<->>
+Erzeuge Seltenheit..
+Modifiziere Rdm Werte (151-250)
+Randomizer ergibt: 187
+150<rdm>253 ->Crap!
+Item erhaelt Seltenheit: Crap!
+Erzeuge Itemtyp..
+Crap! bleibt Crap!
+<<->>
+Erzeuge Seltenheit..
+Modifiziere Rdm Werte (151-250)
+Randomizer ergibt: 195
+150<rdm>253 ->Crap!
+Item erhaelt Seltenheit: Crap!
+Erzeuge Itemtyp..
+Crap! bleibt Crap!
+<<->>
+Erzeuge Seltenheit..
+Modifiziere Rdm Werte (151-250)
+Randomizer ergibt: 175
+150<rdm>253 ->Crap!
+Item erhaelt Seltenheit: Crap!
+Erzeuge Itemtyp..
+Crap! bleibt Crap!
+<<->>
+Erzeuge Seltenheit..
+Modifiziere Rdm Werte (151-250)
+Randomizer ergibt: 214
+150<rdm>253 ->Crap!
+Item erhaelt Seltenheit: Crap!
+Erzeuge Itemtyp..
+Crap! bleibt Crap!
+<<->>
+Erzeuge Seltenheit..
+Modifiziere Rdm Werte (151-250)
+Randomizer ergibt: 182
+150<rdm>253 ->Crap!
+Item erhaelt Seltenheit: Crap!
+Erzeuge Itemtyp..
+Crap! bleibt Crap!
+<<->>
+Erzeuge Seltenheit..
+Modifiziere Rdm Werte (151-250)
+Randomizer ergibt: 186
+150<rdm>253 ->Crap!
+Item erhaelt Seltenheit: Crap!
+Erzeuge Itemtyp..
+Crap! bleibt Crap!
+<<->>
+Erzeuge Seltenheit..
+Modifiziere Rdm Werte (151-250)
+Randomizer ergibt: 236
+150<rdm>253 ->Crap!
+Item erhaelt Seltenheit: Crap!
+Erzeuge Itemtyp..
+Crap! bleibt Crap!
+----------------------
+Beginne Generierung!
+Es werden 10 Items erstellt
+<<->>
+Erzeuge Seltenheit..
+Modifiziere Rdm Werte (151-250)
+Randomizer ergibt: 220
+150<rdm>253 ->Crap!
+Item erhaelt Seltenheit: Crap!
+Erzeuge Itemtyp..
+Crap! bleibt Crap!
+<<->>
+Erzeuge Seltenheit..
+Modifiziere Rdm Werte (151-250)
+Randomizer ergibt: 238
+150<rdm>253 ->Crap!
+Item erhaelt Seltenheit: Crap!
+Erzeuge Itemtyp..
+Crap! bleibt Crap!
+<<->>
+Erzeuge Seltenheit..
+Modifiziere Rdm Werte (151-250)
+Randomizer ergibt: 159
+150<rdm>253 ->Crap!
+Item erhaelt Seltenheit: Crap!
+Erzeuge Itemtyp..
+Crap! bleibt Crap!
+<<->>
+Erzeuge Seltenheit..
+Modifiziere Rdm Werte (151-250)
+Randomizer ergibt: 232
+150<rdm>253 ->Crap!
+Item erhaelt Seltenheit: Crap!
+Erzeuge Itemtyp..
+Crap! bleibt Crap!
+<<->>
+Erzeuge Seltenheit..
+Modifiziere Rdm Werte (151-250)
+Randomizer ergibt: 236
+150<rdm>253 ->Crap!
+Item erhaelt Seltenheit: Crap!
+Erzeuge Itemtyp..
+Crap! bleibt Crap!
+<<->>
+Erzeuge Seltenheit..
+Modifiziere Rdm Werte (151-250)
+Randomizer ergibt: 175
+150<rdm>253 ->Crap!
+Item erhaelt Seltenheit: Crap!
+Erzeuge Itemtyp..
+Crap! bleibt Crap!
+<<->>
+Erzeuge Seltenheit..
+Modifiziere Rdm Werte (151-250)
+Randomizer ergibt: 152
+150<rdm>253 ->Crap!
+Item erhaelt Seltenheit: Crap!
+Erzeuge Itemtyp..
+Crap! bleibt Crap!
+<<->>
+Erzeuge Seltenheit..
+Modifiziere Rdm Werte (151-250)
+Randomizer ergibt: 244
+150<rdm>253 ->Crap!
+Item erhaelt Seltenheit: Crap!
+Erzeuge Itemtyp..
+Crap! bleibt Crap!
+<<->>
+Erzeuge Seltenheit..
+Modifiziere Rdm Werte (151-250)
+Randomizer ergibt: 215
+150<rdm>253 ->Crap!
+Item erhaelt Seltenheit: Crap!
+Erzeuge Itemtyp..
+Crap! bleibt Crap!
+<<->>
+Erzeuge Seltenheit..
+Modifiziere Rdm Werte (151-250)
+Randomizer ergibt: 168
+150<rdm>253 ->Crap!
+Item erhaelt Seltenheit: Crap!
+Erzeuge Itemtyp..
+Crap! bleibt Crap!
+----------------------
+Beginne Generierung!
+Es werden 10 Items erstellt
+<<->>
+Erzeuge Seltenheit..
+Modifiziere Rdm Werte (151-250)
+Randomizer ergibt: 203
+150<rdm>253 ->Crap!
+Item erhaelt Seltenheit: Crap!
+Erzeuge Itemtyp..
+Crap! bleibt Crap!
+<<->>
+Erzeuge Seltenheit..
+Modifiziere Rdm Werte (151-250)
+Randomizer ergibt: 205
+150<rdm>253 ->Crap!
+Item erhaelt Seltenheit: Crap!
+Erzeuge Itemtyp..
+Crap! bleibt Crap!
+<<->>
+Erzeuge Seltenheit..
+Modifiziere Rdm Werte (151-250)
+Randomizer ergibt: 228
+150<rdm>253 ->Crap!
+Item erhaelt Seltenheit: Crap!
+Erzeuge Itemtyp..
+Crap! bleibt Crap!
+<<->>
+Erzeuge Seltenheit..
+Modifiziere Rdm Werte (151-250)
+Randomizer ergibt: 220
+150<rdm>253 ->Crap!
+Item erhaelt Seltenheit: Crap!
+Erzeuge Itemtyp..
+Crap! bleibt Crap!
+<<->>
+Erzeuge Seltenheit..
+Modifiziere Rdm Werte (151-250)
+Randomizer ergibt: 201
+150<rdm>253 ->Crap!
+Item erhaelt Seltenheit: Crap!
+Erzeuge Itemtyp..
+Crap! bleibt Crap!
+<<->>
+Erzeuge Seltenheit..
+Modifiziere Rdm Werte (151-250)
+Randomizer ergibt: 249
+150<rdm>253 ->Crap!
+Item erhaelt Seltenheit: Crap!
+Erzeuge Itemtyp..
+Crap! bleibt Crap!
+<<->>
+Erzeuge Seltenheit..
+Modifiziere Rdm Werte (151-250)
+Randomizer ergibt: 160
+150<rdm>253 ->Crap!
+Item erhaelt Seltenheit: Crap!
+Erzeuge Itemtyp..
+Crap! bleibt Crap!
+<<->>
+Erzeuge Seltenheit..
+Modifiziere Rdm Werte (151-250)
+Randomizer ergibt: 160
+150<rdm>253 ->Crap!
+Item erhaelt Seltenheit: Crap!
+Erzeuge Itemtyp..
+Crap! bleibt Crap!
+<<->>
+Erzeuge Seltenheit..
+Modifiziere Rdm Werte (151-250)
+Randomizer ergibt: 197
+150<rdm>253 ->Crap!
+Item erhaelt Seltenheit: Crap!
+Erzeuge Itemtyp..
+Crap! bleibt Crap!
+<<->>
+Erzeuge Seltenheit..
+Modifiziere Rdm Werte (151-250)
+Randomizer ergibt: 167
+150<rdm>253 ->Crap!
+Item erhaelt Seltenheit: Crap!
+Erzeuge Itemtyp..
+Crap! bleibt Crap!
+----------------------
+Beginne Generierung!
+Es werden 10 Items erstellt
+<<->>
+Erzeuge Seltenheit..
+Modifiziere Rdm Werte (151-250)
+Randomizer ergibt: 167
+150<rdm>253 ->Crap!
+Item erhaelt Seltenheit: Crap!
+Erzeuge Itemtyp..
+Crap! bleibt Crap!
+<<->>
+Erzeuge Seltenheit..
+Modifiziere Rdm Werte (151-250)
+Randomizer ergibt: 232
+150<rdm>253 ->Crap!
+Item erhaelt Seltenheit: Crap!
+Erzeuge Itemtyp..
+Crap! bleibt Crap!
+<<->>
+Erzeuge Seltenheit..
+Modifiziere Rdm Werte (151-250)
+Randomizer ergibt: 212
+150<rdm>253 ->Crap!
+Item erhaelt Seltenheit: Crap!
+Erzeuge Itemtyp..
+Crap! bleibt Crap!
+<<->>
+Erzeuge Seltenheit..
+Modifiziere Rdm Werte (151-250)
+Randomizer ergibt: 156
+150<rdm>253 ->Crap!
+Item erhaelt Seltenheit: Crap!
+Erzeuge Itemtyp..
+Crap! bleibt Crap!
+<<->>
+Erzeuge Seltenheit..
+Modifiziere Rdm Werte (151-250)
+Randomizer ergibt: 219
+150<rdm>253 ->Crap!
+Item erhaelt Seltenheit: Crap!
+Erzeuge Itemtyp..
+Crap! bleibt Crap!
+<<->>
+Erzeuge Seltenheit..
+Modifiziere Rdm Werte (151-250)
+Randomizer ergibt: 191
+150<rdm>253 ->Crap!
+Item erhaelt Seltenheit: Crap!
+Erzeuge Itemtyp..
+Crap! bleibt Crap!
+<<->>
+Erzeuge Seltenheit..
+Modifiziere Rdm Werte (151-250)
+Randomizer ergibt: 198
+150<rdm>253 ->Crap!
+Item erhaelt Seltenheit: Crap!
+Erzeuge Itemtyp..
+Crap! bleibt Crap!
+<<->>
+Erzeuge Seltenheit..
+Modifiziere Rdm Werte (151-250)
+Randomizer ergibt: 237
+150<rdm>253 ->Crap!
+Item erhaelt Seltenheit: Crap!
+Erzeuge Itemtyp..
+Crap! bleibt Crap!
+<<->>
+Erzeuge Seltenheit..
+Modifiziere Rdm Werte (151-250)
+Randomizer ergibt: 242
+150<rdm>253 ->Crap!
+Item erhaelt Seltenheit: Crap!
+Erzeuge Itemtyp..
+Crap! bleibt Crap!
+<<->>
+Erzeuge Seltenheit..
+Modifiziere Rdm Werte (151-250)
+Randomizer ergibt: 202
+150<rdm>253 ->Crap!
+Item erhaelt Seltenheit: Crap!
+Erzeuge Itemtyp..
+Crap! bleibt Crap!
+----------------------

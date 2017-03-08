@@ -1,0 +1,35 @@
+Initialisiere Randomizer..
+Erstelle Stringlists..
+Erstmaliges leeren..
+Einlesen der cfg Dateien..
+Es wurden 7 Rüstungseffekte gefunden!
+Es wurden 17 Waffeneffekte gefunden!
+Es wurden 9 Lootquellen gefunden!
+Es wurden 30 Einträge gefunden!
+Es wurden 11 normale Items gefunden!
+Es wurden 9 seltene Items gefunden!
+Es wurden 10 sehr seltene Items gefunden!
+Es wurden 13 legendäre Items gefunden!
+Erfolgreich initialsiert!
+Beginne Generierung!
+Es werden 2 Items erstellt (1;3)
+<<->>
+Erzeuge Seltenheit..
+Randomizer ergibt: 77
+50<rdm>151 ->Normal 
+Item erhaelt Seltenheit: Normal 
+Erzeuge Itemtyp..
+Randomizer ergibt: 7 -> Dreck
+<<->>
+Erzeuge Seltenheit..
+Randomizer ergibt: 19
+12<rdm>51 ->Selten
+Item erhaelt Seltenheit: Selten
+Erzeuge Itemtyp..
+Randomizer ergibt: 7 -> Holzspeer_[$]
+säubere Itemname..
+Holzspeer_[$] -> Holzspeer
+Erzeuge genaue Werte..
+Addiere Grundwert mit Randomwert..
+-> 20
+----------------------

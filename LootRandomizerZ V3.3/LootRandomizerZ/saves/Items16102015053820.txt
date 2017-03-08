@@ -1,0 +1,70 @@
+--20 Items--
+05:37:41||ITEM GELÖSCHT|Legendary!|
+05:37:41||'Der Kopf-Desintigrator' Gewehr|Legendary!|12Dmg|2 Parade|CH(1)|MB(2)|GW(1)|
+Diese Waffe macht gefuegig
+05:37:41||Random Effekt Mod|Legendary!|
+05:37:41||Neutronium Duellierklinge|Legendary!|12Dmg|3 Parade|GW(1)|GW(1)|MB(1)|
+Diese Waffe macht lebendig
+05:37:41||Plasmawurfklingen|Legendary!|13Dmg|1 Parade|MB(2)|CH(1)|AD(1)| x(5)|
+Diese Waffe macht lesbisch
+05:37:41||Waffen Effekt Mod|Legendary!|
+05:37:41||Waffen Effekt Mod|Legendary!|
+05:37:41||Neutronium Duellierklinge|Legendary!|12Dmg|1 Parade|MB(1)|CH(1)|AD(1)|
+Diese Waffe macht gefuegig
+05:37:41||'Kompakte Vernichtung' Pistole|Legendary!|12Dmg|4 Parade|AD(1)|MB(2)|CH(2)|
+Diese Waffe macht notgeil
+05:37:41||Ruestung Effekt Mod|Legendary!|
+05:37:41||'Der Kopf-Desintigrator' Gewehr|Legendary!|10Dmg|2 Parade|AD(2)|AD(1)|AD(2)|
+Diese Waffe macht blutdurstig
+05:37:41||Neutronium Duellierklinge|Legendary!|10Dmg|1 Parade|MB(1)|GW(1)|MB(1)|
+Diese Waffe macht blutdurstig
+05:37:41||'Kompakte Vernichtung' Pistole|Legendary!|12Dmg|5 Parade|AD(2)|CH(1)|GW(2)|
+Diese Waffe macht nudistisch
+05:37:41||Random Effekt Mod|Legendary!|
+05:37:41||'Der ferne Tod' Sniper|Legendary!|13Dmg|5 Parade|MB(2)|CH(1)|MB(2)|
+Diese Waffe macht lesbisch
+05:37:41||Plasmawurfklingen|Legendary!|15Dmg|4 Parade|CH(1)|CH(2)|AD(1)| x(5)|
+Diese Waffe macht lesbisch
+05:37:41||'Der ferne Tod' Sniper|Legendary!|13Dmg|1 Parade|CH(1)|AD(2)|GW(2)|
+Diese Waffe macht high
+05:37:41||'Der ferne Tod' Sniper|Legendary!|11Dmg|5 Parade|CH(2)|MB(1)|MB(2)|
+Diese Waffe macht notgeil
+05:37:41||Ouzo 12|Legendary!|Wert:19|GW(2)|AD(1)|
+05:37:41||Ruestung Effekt Mod|Legendary!|
+--Ende--
+--10 Items--
+05:38:06||'Der ferne Tod' Sniper|Legendary!|11Dmg|5 Parade|MB(2)|MB(1)|CH(1)|
+Diese Waffe macht verzweifelt
+05:38:06||Random Effekt Mod|Legendary!|
+05:38:06||'Der ferne Tod' Sniper|Legendary!|11Dmg|2 Parade|AD(1)|CH(1)|AD(1)|
+Diese Waffe macht durstig
+05:38:06||Waffen Effekt Mod|Legendary!|
+05:38:06||Plasmawurfklingen|Legendary!|15Dmg|3 Parade|CH(1)|MB(1)|AD(2)| x(5)|
+Diese Waffe macht lebendig
+05:38:06||Ouzo 12|Legendary!|Wert:13|AD(2)|GW(2)|
+05:38:06||Plasmawurfklingen|Legendary!|14Dmg|2 Parade|MB(1)|CH(2)|MB(2)| x(5)|
+Diese Waffe macht high
+05:38:06||Waffen Effekt Mod|Legendary!|
+05:38:06||'Der Kopf-Desintigrator' Gewehr|Legendary!|11Dmg|4 Parade|AD(1)|GW(1)|CH(1)|
+Diese Waffe macht verwirrt
+05:38:06||Neutronium Duellierklinge|Legendary!|11Dmg|2 Parade|AD(2)|GW(2)|AD(1)|
+Diese Waffe macht lebendig
+--Ende--
+--10 Items--
+05:38:14||'Der Kopf-Desintigrator' Gewehr|Legendary!|10Dmg|4 Parade|AD(1)|GW(2)|CH(2)|
+Diese Waffe macht nudistisch
+05:38:14||'Der Kopf-Desintigrator' Gewehr|Legendary!|10Dmg|5 Parade|CH(2)|MB(2)|AD(1)|
+Diese Waffe macht blind
+05:38:14||Ouzo 12|Legendary!|Wert:15|CH(1)|AD(1)|
+05:38:14||Random Effekt Mod|Legendary!|
+05:38:14||Ruestung Effekt Mod|Legendary!|
+05:38:14||'Kompakte Vernichtung' Pistole|Legendary!|10Dmg|1 Parade|CH(1)|GW(1)|GW(1)|
+Diese Waffe macht verzweifelt
+05:38:14||Waffen Effekt Mod|Legendary!|
+05:38:14||Neutronium Duellierklinge|Legendary!|12Dmg|4 Parade|AD(2)|GW(2)|MB(1)|
+Diese Waffe macht hungrig
+05:38:14||Neutronium Duellierklinge|Legendary!|12Dmg|2 Parade|GW(2)|GW(1)|MB(2)|
+Diese Waffe macht zufrieden
+05:38:14||Waffen Effekt Mod|Legendary!|
+--Ende--
+

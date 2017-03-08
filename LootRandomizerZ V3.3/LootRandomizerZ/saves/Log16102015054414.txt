@@ -1,0 +1,138 @@
+Beginne Generierung!
+Es werden 2 Items erstellt (2;4)
+<<->>
+Erzeuge Seltenheit..
+Randomizer ergibt: 19
+12<rdm>51 ->Selten
+Item erhaelt Seltenheit: Selten
+Erzeuge Itemtyp..
+Filtere Itemliste...
+Es wurde/n 0 Item/s aussortiert!
+Es wurde/n 0 Treffer gefunden!
+Es sind 10 Items ungetagged!
+Randomizer ergibt: 6 -> Glasscherben_[$;(3,5);{3-7}]
+säubere Itemname..
+Glasscherben_[$;(3,5);{3-7}] -> Glasscherben
+Erzeuge genaue Werte..
+-> 6
+<<->>
+Erzeuge Seltenheit..
+Randomizer ergibt: 26
+12<rdm>51 ->Selten
+Item erhaelt Seltenheit: Selten
+Erzeuge Itemtyp..
+Filtere Itemliste...
+Es wurde/n 0 Item/s aussortiert!
+Es wurde/n 0 Treffer gefunden!
+Es sind 10 Items ungetagged!
+Randomizer ergibt: 8 -> Berensen Waldguelle
+----------------------
+Beginne Generierung!
+Es werden 2 Items erstellt (2;4)
+<<->>
+Erzeuge Seltenheit..
+Randomizer ergibt: 159
+150<rdm>253 ->Crap!
+Item erhaelt Seltenheit: Crap!
+Erzeuge Itemtyp..
+Crap! bleibt Crap!
+<<->>
+Erzeuge Seltenheit..
+Randomizer ergibt: -2
+(-3)<rdm>5 ->Legendary!
+Item erhaelt Seltenheit: Legendary!
+Erzeuge Itemtyp..
+Filtere Itemliste...
+Es wurde/n 0 Item/s aussortiert!
+Es wurde/n 0 Treffer gefunden!
+Es sind 10 Items ungetagged!
+Randomizer ergibt: 5 -> Ouzo ?1?2_[#2;{10-20}]
+säubere Itemname..
+Ouzo ?1?2_[#2;{10-20}] -> Ouzo 12
+filtere Sonderzeichen..
+Ouzo ?1?2_[#2;{10-20}] -> Ouzo ?X?X_[#2;{10-20}]
+Erzeuge genaue Werte..
+-> 19
+Erzeuge Attribute..
+Es werden 2 Attribute erzeugt!
+<<<<>>>>
+normales Attribut (0)
+Normal (AD)
+<<<<>>>>
+normales Attribut (0)
+Normal (MB)
+<<<<>>>>
+Fisch aufm Tisch,
+Legendary Shit! :)
+----------------------
+Beginne Generierung!
+Es werden 4 Items erstellt (2;4)
+<<->>
+Erzeuge Seltenheit..
+Randomizer ergibt: 50
+12<rdm>51 ->Selten
+Item erhaelt Seltenheit: Selten
+Erzeuge Itemtyp..
+Filtere Itemliste...
+Es wurde/n 0 Item/s aussortiert!
+Es wurde/n 0 Treffer gefunden!
+Es sind 10 Items ungetagged!
+Randomizer ergibt: 8 -> Berensen Waldguelle
+<<->>
+Erzeuge Seltenheit..
+Randomizer ergibt: 156
+150<rdm>253 ->Crap!
+Item erhaelt Seltenheit: Crap!
+Erzeuge Itemtyp..
+Crap! bleibt Crap!
+<<->>
+Erzeuge Seltenheit..
+Randomizer ergibt: 102
+50<rdm>151 ->Normal 
+Item erhaelt Seltenheit: Normal 
+Erzeuge Itemtyp..
+Filtere Itemliste...
+Es wurde/n 0 Item/s aussortiert!
+Es wurde/n 0 Treffer gefunden!
+Es sind 9 Items ungetagged!
+Randomizer ergibt: 5 -> Wasser_[(1,3)]
+säubere Itemname..
+Wasser_[(1,3)] -> Wasser
+<<->>
+Erzeuge Seltenheit..
+Randomizer ergibt: 227
+150<rdm>253 ->Crap!
+Item erhaelt Seltenheit: Crap!
+Erzeuge Itemtyp..
+Crap! bleibt Crap!
+----------------------
+Beginne Generierung!
+Es werden 3 Items erstellt (2;4)
+<<->>
+Erzeuge Seltenheit..
+Randomizer ergibt: 220
+150<rdm>253 ->Crap!
+Item erhaelt Seltenheit: Crap!
+Erzeuge Itemtyp..
+Crap! bleibt Crap!
+<<->>
+Erzeuge Seltenheit..
+Randomizer ergibt: 232
+150<rdm>253 ->Crap!
+Item erhaelt Seltenheit: Crap!
+Erzeuge Itemtyp..
+Crap! bleibt Crap!
+<<->>
+Erzeuge Seltenheit..
+Randomizer ergibt: 144
+50<rdm>151 ->Normal 
+Item erhaelt Seltenheit: Normal 
+Erzeuge Itemtyp..
+Filtere Itemliste...
+Es wurde/n 0 Item/s aussortiert!
+Es wurde/n 0 Treffer gefunden!
+Es sind 9 Items ungetagged!
+Randomizer ergibt: 5 -> Wasser_[(1,3)]
+säubere Itemname..
+Wasser_[(1,3)] -> Wasser
+----------------------

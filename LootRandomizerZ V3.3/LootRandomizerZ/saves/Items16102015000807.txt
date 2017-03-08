@@ -1,0 +1,23 @@
+--4 Items--
+Crap!
+00:07:38||Standart Pistole|Selten|2Dmg|2 Parade|GW(1)|
+Crap!
+Crap!
+--Ende--
+--3 Items--
+00:07:38||Random Effekt Mod|Legendary!|
+00:07:38||Uralt Karabiner|Normal |2Dmg|5 Parade|
+Crap!
+--Ende--
+--4 Items--
+00:07:38||Apfel|Normal |
+00:07:38||Medipack|Selten| x(2)|
+00:07:38||Kartoffelsack|Normal |2DmgReduction|
+00:07:38||Schulterpanzer|Selten|2DmgReduction|
+--Ende--
+--3 Items--
+00:07:39||Uralt Karabiner|Normal |1Dmg|5 Parade|
+00:07:39||Fancy Handschuhe|Normal |Wert:1|GW(1)|
+Crap!
+--Ende--
+

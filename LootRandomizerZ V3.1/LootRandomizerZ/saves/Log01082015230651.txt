@@ -1,0 +1,31 @@
+Beginne Generierung!
+Es werden 1 Items erstellt
+<<->>
+Erzeuge Seltenheit..
+Modifiziere Rdm Werte (0-4)
+Randomizer ergibt: 3
+(-3)<rdm>5 ->Legendary!
+Item erhaelt Seltenheit: Legendary!
+Erzeuge Itemtyp..
+Filtere Itemliste...
+Liste ist 4 Items lang
+Randomizer ergibt: 1 -> Schwert des Daemonenschlaechters_[$;#3]
+Ignoriere Ergebnis..
+Erzwungener Itemtyp: krasse Kunais_[$;#3;(1,5)]
+säubere Itemname..
+krasse Kunais_[$;#3;(1,5)] -> krasse Kunais
+Erzeuge Attribute..
+Es werden 3 Attribute erzeugt!
+<<<<>>>>
+Chance auf Bonusattribut! (1)
+Normal (MB)
+<<<<>>>>
+Chance auf Bonusattribut! (2)
+Normal (AD)
+<<<<>>>>
+Chance auf Bonusattribut! (3)
+Normal (CH)
+<<<<>>>>
+Fisch aufm Tisch,
+Legendary Shit! :)
+----------------------

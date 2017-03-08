@@ -1,0 +1,56 @@
+Initialisiere Randomizer..
+Erstelle Stringlists..
+Erstmaliges leeren..
+Einlesen der cfg Dateien..
+Es wurden 7 Rüstungseffekte gefunden!
+Es wurden 17 Waffeneffekte gefunden!
+Es wurden 9 Lootquellen gefunden!
+Es wurden 10 Einträge gefunden!
+Es wurden 11 normale Items gefunden!
+Es wurden 9 seltene Items gefunden!
+Es wurden 10 sehr seltene Items gefunden!
+Es wurden 13 legendäre Items gefunden!
+Erfolgreich initialsiert!
+Beginne Generierung!
+Es werden 1 Items erstellt
+<<->>
+Erzeuge Seltenheit..
+Modifiziere Rdm Werte (0-4)
+Randomizer ergibt: 2
+(-3)<rdm>5 ->Legendary!
+Item erhaelt Seltenheit: Legendary!
+Erzeuge Itemtyp..
+Filtere Itemliste...
+Liste ist 4 Items lang
+Randomizer ergibt: 1 -> Schwert des Daemonenschlaechters_[$;#3]
+Ignoriere Ergebnis..
+Erzwungener Itemtyp: krasse Kunais_[$;#3;(1,5),{5-10}]
+säubere Itemname..
+krasse Kunais_[$;#3;(1,5),{5-10}] -> krasse Kunais
+Erzeuge genaue Werte..
+-> 9
+Erzeuge Attribute..
+Es werden 3 Attribute erzeugt!
+<<<<>>>>
+normales Attribut (0)
+Normal (AD)
+<<<<>>>>
+normales Attribut (0)
+Normal (MB)
+<<<<>>>>
+normales Attribut (0)
+Normal (AD)
+<<<<>>>>
+Initialisiere Randomizer..
+Erstelle Stringlists..
+Erstmaliges leeren..
+Einlesen der cfg Dateien..
+Es wurden 7 Rüstungseffekte gefunden!
+Es wurden 17 Waffeneffekte gefunden!
+Es wurden 9 Lootquellen gefunden!
+Es wurden 10 Einträge gefunden!
+Es wurden 11 normale Items gefunden!
+Es wurden 9 seltene Items gefunden!
+Es wurden 10 sehr seltene Items gefunden!
+Es wurden 13 legendäre Items gefunden!
+Erfolgreich initialsiert!

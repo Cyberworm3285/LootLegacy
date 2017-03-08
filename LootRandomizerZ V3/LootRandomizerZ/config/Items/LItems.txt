@@ -1,0 +1,13 @@
+krasse Kunais_[$;#3;(1,5)]
+Gold_[(0,100)]
+Eiskrone des Fickers_[~;#4]
+Schwert des Daemonenschlaechters_[$;#3]
+Diamant
+Ochsenhoden_[(2,2)]
+Ouzo ?1?2_[#2]
+Armbrust des Querfickers_[$;#3]
+Effekt Reset
+Waffen Effekt Mod
+Ruestung Effekt Mod
+Random Effekt Mod
+Dildo_[(1,3);#2;$]

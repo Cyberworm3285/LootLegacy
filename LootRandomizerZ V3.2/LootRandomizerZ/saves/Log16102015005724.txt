@@ -1,0 +1,80 @@
+Initialisiere Randomizer..
+Erstelle Stringlists..
+Erstmaliges leeren..
+Einlesen der cfg Dateien..
+Es wurden 7 Rüstungseffekte gefunden!
+Es wurden 17 Waffeneffekte gefunden!
+Es wurden 9 Lootquellen gefunden!
+Es wurden 5 Einträge gefunden!
+Es wurden 9 normale Items gefunden!
+Es wurden 10 seltene Items gefunden!
+Es wurden 12 sehr seltene Items gefunden!
+Es wurden 9 legendäre Items gefunden!
+Es wurden 4 Gebiete gefunden!
+Erfolgreich initialsiert!
+----------------
+Normal :
+1: Wasser_[(1,3)]
+2: Fancy Handschuhe_[#1]
+3: Apfel
+Selten:
+1: Krombacher_[(1,3)]
+2: Berensen Waldguelle
+3: Medipack_[(1,3)]
+Sehr Selten:
+1: Backfisch_[(1,3)]
+2: Schere
+3: Erzquell_[(1,3)]
+4: Kithara_[#1]
+5: Effekt Reset
+6: Ueberbruecker_[(1,2)]
+Legendary!:
+1: Ouzo ?1?2_[#2;{10-20}]
+2: Waffen Effekt Mod
+3: Ruestung Effekt Mod
+4: Random Effekt Mod
+----------------
+Normal :
+1: Geschaerfte Kruecke_[$;{0-3}]
+2: Old?-School Jagdgewehr_[$;{1-4}]
+3: Uralt Karabiner_[$;{0-3}]
+4: Rost Revolver_[$;{0-3}]
+5: Kartoffelsack_[~;{2-2}]
+6: Wasser_[(1,3)]
+7: Fancy Handschuhe_[#1]
+8: Kieselsteine[(2,4);$;{2-4}]
+9: Apfel
+Selten:
+1: 08?/15 Vibroschwert_[$;#1;{2-6}]
+2: Praezisionsgewehr_[$;#1;{2-8}]
+3: Militaer?-Sturmgewehr_[$;#1;{2-6}]
+4: Standart Pistole_[$;#1;{2-6}]
+5: Stahlplattenpanzter_[~;#1;{2-4}]
+6: Schulterpanzer_[~;{2-2}]
+7: Glasscherben_[$;(3,5);{3-7}]
+8: Krombacher_[(1,3)]
+9: Berensen Waldguelle
+10: Medipack_[(1,3)]
+Sehr Selten:
+1: NeoSamurai Katana_[$;#2;{6-9}]
+2: MKS Scharfschuetzengewehr_[$;#2;{7-11}]
+3: Spec?-Ops Sturmkarabiner_[$;#2;{6-9}]
+4: Elite?-Pistole_[$;#2;{6-9}]
+5: Schuh of Doom_[~;#1;{2-3}]
+6: Backfisch_[(1,3)]
+7: Schere
+8: Erzquell_[(1,3)]
+9: Kithara_[#1]
+10: Kunai_[(4,6);$;{8-12}]
+11: Effekt Reset
+12: Ueberbruecker_[(1,2)]
+Legendary!:
+1: Plasmawurfklingen_[$;#3;(5,5);{13-15}]
+2: Neutronium Duellierklinge_[$;#3;{10-12}]
+3: 'Der ferne Tod' Sniper_[$;#3;{11-15}]
+4: 'Der Kopf?-Desintigrator' Gewehr_[$;#3;{10-12}]
+5: 'Kompakte Vernichtung' Pistole_[$;#3;{10-12}]
+6: Ouzo ?1?2_[#2;{10-20}]
+7: Waffen Effekt Mod
+8: Ruestung Effekt Mod
+9: Random Effekt Mod

@@ -1,0 +1,19 @@
+--3 Items--
+Crap!
+03:23:31||Schere|Sehr Selten|Obere Ebene
+03:23:31||Zahnstocher|Normal |13Dmg|3 Parade| x(6)|Obere Ebene
+--Ende--
+--4 Items--
+03:24:01||Dildo|Legendary!|30Dmg|3 Parade|GW(1)|AD(4)| x(2)|Nazi-Base
+Diese Waffe macht gefuegig
+03:24:01||Dildo|Legendary!|32Dmg|4 Parade|MB(2)|KK(3)| x(1)|Nazi-Base
+Diese Waffe macht nudistisch
+03:24:01||Schwert des Daemonenschlaechters|Legendary!|30Dmg|4 Parade|GW(4)|GW(3)|CH(1)|Nazi-Base
+Diese Waffe macht zufrieden
+03:24:01||Schwert des Daemonenschlaechters|Legendary!|29Dmg|4 Parade|AD(3)|MB(2)|INT(1)|Nazi-Base
+Diese Waffe macht gluecklich
+--Ende--
+--2 Items--
+03:24:08||Schwert des Daemonenschlaechters|Legendary!|33Dmg|2 Parade|MB(4)|CH(1)|MB(2)|Nazi-Base
+Diese Waffe macht durstig
+

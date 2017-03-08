@@ -1,0 +1,111 @@
+----------------
+Normal :
+1: Pistole_[$]
+2: Zahnstocher_[$;(5,15)]
+Selten:
+1: Derber Stock_[$;#2]
+2: Holzspeer_[$]
+Sehr Selten:
+1: Spatern_[$]
+Legendary!:
+1: krasse Kunais_[$;#3;(1,5)]
+2: Schwert des Daemonenschlaechters_[$;#3]
+3: Armbrust des Querfickers_[$;#3]
+4: TestMaster?5_[#2;$;~;(2,5)]
+----------------
+Normal :
+1: Panzer_[~]
+2: Billig Armschiene_[~]
+Selten:
+1: Brille_[~]
+2: Guertel_[~;#2]
+3: Sweatshirt_[~#2]
+Sehr Selten:
+1: Schuh of Doom_[~;#2]
+Legendary!:
+1: Eiskrone des Fickers_[~;#4]
+2: TestMaster?5_[#2;$;~;(2,5)]
+----------------
+Keine Parameter vorhanden!
+abbruch!
+----------------------
+Beginne Generierung!
+Erzeuge Seltenheit..
+Randomizer ergibt: 124
+50<rdm>151 ->Normal 
+Item erhaelt Seltenheit: Normal 
+Erzeuge Itemtyp..
+Filtere Itemliste...
+Liste ist 2 Items lang
+Randomizer ergibt: 1 -> Billig Armschiene_[~]
+säubere Itemname..
+Billig Armschiene_[~] -> Billig Armschiene
+Erzeuge genaue Werte..
+Addiere Grundwert mit Randomwert..
+-> 8
+----------------
+Unbekannte Quelle! (-3..4)
+abbruch!
+----------------------
+Beginne Generierung!
+Erzeuge Seltenheit..
+Ungültige Obergrenze als Seltenheit! (0-4)
+abbruch!
+Erzeuge Itemtyp..
+Crap! bleibt Crap!
+säubere Itemname..
+Crap! -> Crap!
+----------------------
+Beginne Generierung!
+Erzeuge Seltenheit..
+Ungültige Obergrenze als Seltenheit! (0-4)
+abbruch!
+Erzeuge Itemtyp..
+Crap! bleibt Crap!
+säubere Itemname..
+Crap! -> Crap!
+----------------------
+Beginne Generierung!
+Erzeuge Seltenheit..
+Ungültige Obergrenze als Seltenheit! (0-4)
+abbruch!
+Erzeuge Itemtyp..
+Crap! bleibt Crap!
+säubere Itemname..
+Crap! -> Crap!
+----------------------
+Beginne Generierung!
+Erzeuge Seltenheit..
+Ungültige Obergrenze als Seltenheit! (0-4)
+abbruch!
+Erzeuge Itemtyp..
+Crap! bleibt Crap!
+säubere Itemname..
+Crap! -> Crap!
+----------------------
+Beginne Generierung!
+Erzeuge Seltenheit..
+Ungültige Obergrenze als Seltenheit! (0-4)
+abbruch!
+Erzeuge Itemtyp..
+Crap! bleibt Crap!
+säubere Itemname..
+Crap! -> Crap!
+----------------------
+Beginne Generierung!
+Erzeuge Seltenheit..
+Ungültige Obergrenze als Seltenheit! (0-4)
+abbruch!
+Erzeuge Itemtyp..
+Crap! bleibt Crap!
+säubere Itemname..
+Crap! -> Crap!
+----------------------
+Beginne Generierung!
+Erzeuge Seltenheit..
+Ungültige Obergrenze als Seltenheit! (0-4)
+abbruch!
+Erzeuge Itemtyp..
+Crap! bleibt Crap!
+säubere Itemname..
+Crap! -> Crap!

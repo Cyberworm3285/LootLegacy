@@ -1,0 +1,340 @@
+Beginne Generierung!
+Es werden 10 Items erstellt
+<<->>
+Erzeuge Seltenheit..
+Modifiziere Rdm Werte (0-150)
+Randomizer ergibt: 61
+50<rdm>151 ->Normal 
+Item erhaelt Seltenheit: Normal 
+Erzeuge Itemtyp..
+Filtere Itemliste...
+Es wurde/n 0 Item/s aussortiert!
+Es wurde/n 0 Treffer gefunden!
+Es sind 9 Items ungetagged!
+Randomizer ergibt: 1 -> Old?-School Jagdgewehr_[$;{1-4}]
+säubere Itemname..
+Old?-School Jagdgewehr_[$;{1-4}] -> Old-School Jagdgewehr
+filtere Sonderzeichen..
+Old?-School Jagdgewehr_[$;{1-4}] -> Old?XSchool Jagdgewehr_[$;{1-4}]
+Erzeuge genaue Werte..
+-> 1
+<<->>
+Erzeuge Seltenheit..
+Modifiziere Rdm Werte (0-150)
+Randomizer ergibt: 32
+12<rdm>51 ->Selten
+Item erhaelt Seltenheit: Selten
+Erzeuge Itemtyp..
+Filtere Itemliste...
+Es wurde/n 0 Item/s aussortiert!
+Es wurde/n 0 Treffer gefunden!
+Es sind 10 Items ungetagged!
+Randomizer ergibt: 7 -> Krombacher_[(1,3)]
+säubere Itemname..
+Krombacher_[(1,3)] -> Krombacher
+<<->>
+Erzeuge Seltenheit..
+Modifiziere Rdm Werte (0-150)
+Randomizer ergibt: 122
+50<rdm>151 ->Normal 
+Item erhaelt Seltenheit: Normal 
+Erzeuge Itemtyp..
+Filtere Itemliste...
+Es wurde/n 0 Item/s aussortiert!
+Es wurde/n 0 Treffer gefunden!
+Es sind 9 Items ungetagged!
+Randomizer ergibt: 1 -> Old?-School Jagdgewehr_[$;{1-4}]
+säubere Itemname..
+Old?-School Jagdgewehr_[$;{1-4}] -> Old-School Jagdgewehr
+filtere Sonderzeichen..
+Old?-School Jagdgewehr_[$;{1-4}] -> Old?XSchool Jagdgewehr_[$;{1-4}]
+Erzeuge genaue Werte..
+-> 4
+<<->>
+Erzeuge Seltenheit..
+Modifiziere Rdm Werte (0-150)
+Randomizer ergibt: 56
+50<rdm>151 ->Normal 
+Item erhaelt Seltenheit: Normal 
+Erzeuge Itemtyp..
+Filtere Itemliste...
+Es wurde/n 0 Item/s aussortiert!
+Es wurde/n 0 Treffer gefunden!
+Es sind 9 Items ungetagged!
+Randomizer ergibt: 5 -> Wasser_[(1,3)]
+säubere Itemname..
+Wasser_[(1,3)] -> Wasser
+<<->>
+Erzeuge Seltenheit..
+Modifiziere Rdm Werte (0-150)
+Randomizer ergibt: 27
+12<rdm>51 ->Selten
+Item erhaelt Seltenheit: Selten
+Erzeuge Itemtyp..
+Filtere Itemliste...
+Es wurde/n 0 Item/s aussortiert!
+Es wurde/n 0 Treffer gefunden!
+Es sind 10 Items ungetagged!
+Randomizer ergibt: 5 -> Schulterpanzer_[~;{2-2}]
+säubere Itemname..
+Schulterpanzer_[~;{2-2}] -> Schulterpanzer
+Erzeuge genaue Werte..
+-> 2
+<<->>
+Erzeuge Seltenheit..
+Modifiziere Rdm Werte (0-150)
+Randomizer ergibt: 64
+50<rdm>151 ->Normal 
+Item erhaelt Seltenheit: Normal 
+Erzeuge Itemtyp..
+Filtere Itemliste...
+Es wurde/n 0 Item/s aussortiert!
+Es wurde/n 0 Treffer gefunden!
+Es sind 9 Items ungetagged!
+Randomizer ergibt: 1 -> Old?-School Jagdgewehr_[$;{1-4}]
+säubere Itemname..
+Old?-School Jagdgewehr_[$;{1-4}] -> Old-School Jagdgewehr
+filtere Sonderzeichen..
+Old?-School Jagdgewehr_[$;{1-4}] -> Old?XSchool Jagdgewehr_[$;{1-4}]
+Erzeuge genaue Werte..
+-> 1
+<<->>
+Erzeuge Seltenheit..
+Modifiziere Rdm Werte (0-150)
+Randomizer ergibt: 51
+50<rdm>151 ->Normal 
+Item erhaelt Seltenheit: Normal 
+Erzeuge Itemtyp..
+Filtere Itemliste...
+Es wurde/n 0 Item/s aussortiert!
+Es wurde/n 0 Treffer gefunden!
+Es sind 9 Items ungetagged!
+Randomizer ergibt: 7 -> Kieselsteine[(2,4);$;{2-4}]
+säubere Itemname..
+Kieselsteine[(2,4);$;{2-4}] -> Kieselsteine
+Erzeuge genaue Werte..
+-> 4
+<<->>
+Erzeuge Seltenheit..
+Modifiziere Rdm Werte (0-150)
+Randomizer ergibt: 68
+50<rdm>151 ->Normal 
+Item erhaelt Seltenheit: Normal 
+Erzeuge Itemtyp..
+Filtere Itemliste...
+Es wurde/n 0 Item/s aussortiert!
+Es wurde/n 0 Treffer gefunden!
+Es sind 9 Items ungetagged!
+Randomizer ergibt: 4 -> Kartoffelsack_[~;{2-2}]
+säubere Itemname..
+Kartoffelsack_[~;{2-2}] -> Kartoffelsack
+Erzeuge genaue Werte..
+-> 2
+<<->>
+Erzeuge Seltenheit..
+Modifiziere Rdm Werte (0-150)
+Randomizer ergibt: 113
+50<rdm>151 ->Normal 
+Item erhaelt Seltenheit: Normal 
+Erzeuge Itemtyp..
+Filtere Itemliste...
+Es wurde/n 0 Item/s aussortiert!
+Es wurde/n 0 Treffer gefunden!
+Es sind 9 Items ungetagged!
+Randomizer ergibt: 5 -> Wasser_[(1,3)]
+säubere Itemname..
+Wasser_[(1,3)] -> Wasser
+<<->>
+Erzeuge Seltenheit..
+Modifiziere Rdm Werte (0-150)
+Randomizer ergibt: 113
+50<rdm>151 ->Normal 
+Item erhaelt Seltenheit: Normal 
+Erzeuge Itemtyp..
+Filtere Itemliste...
+Es wurde/n 0 Item/s aussortiert!
+Es wurde/n 0 Treffer gefunden!
+Es sind 9 Items ungetagged!
+Randomizer ergibt: 1 -> Old?-School Jagdgewehr_[$;{1-4}]
+säubere Itemname..
+Old?-School Jagdgewehr_[$;{1-4}] -> Old-School Jagdgewehr
+filtere Sonderzeichen..
+Old?-School Jagdgewehr_[$;{1-4}] -> Old?XSchool Jagdgewehr_[$;{1-4}]
+Erzeuge genaue Werte..
+-> 1
+----------------------
+Beginne Generierung!
+Es werden 10 Items erstellt
+<<->>
+Erzeuge Seltenheit..
+Modifiziere Rdm Werte (0-150)
+Randomizer ergibt: 74
+50<rdm>151 ->Normal 
+Item erhaelt Seltenheit: Normal 
+Erzeuge Itemtyp..
+Filtere Itemliste...
+Es wurde/n 0 Item/s aussortiert!
+Es wurde/n 0 Treffer gefunden!
+Es sind 9 Items ungetagged!
+Randomizer ergibt: 2 -> Uralt Karabiner_[$;{0-3}]
+säubere Itemname..
+Uralt Karabiner_[$;{0-3}] -> Uralt Karabiner
+Erzeuge genaue Werte..
+-> 1
+<<->>
+Erzeuge Seltenheit..
+Modifiziere Rdm Werte (0-150)
+Randomizer ergibt: 21
+12<rdm>51 ->Selten
+Item erhaelt Seltenheit: Selten
+Erzeuge Itemtyp..
+Filtere Itemliste...
+Es wurde/n 0 Item/s aussortiert!
+Es wurde/n 0 Treffer gefunden!
+Es sind 10 Items ungetagged!
+Randomizer ergibt: 4 -> Stahlplattenpanzter_[~;#1;{2-4}]
+säubere Itemname..
+Stahlplattenpanzter_[~;#1;{2-4}] -> Stahlplattenpanzter
+Erzeuge genaue Werte..
+-> 2
+Erzeuge Attribute..
+Es wird 1 Attribut erzeugt!
+<<<<>>>>
+Chance auf Bonusattribut! (4)
+Bonusattribut! (INT)
+<<<<>>>>
+<<->>
+Erzeuge Seltenheit..
+Modifiziere Rdm Werte (0-150)
+Randomizer ergibt: 128
+50<rdm>151 ->Normal 
+Item erhaelt Seltenheit: Normal 
+Erzeuge Itemtyp..
+Filtere Itemliste...
+Es wurde/n 0 Item/s aussortiert!
+Es wurde/n 0 Treffer gefunden!
+Es sind 9 Items ungetagged!
+Randomizer ergibt: 1 -> Old?-School Jagdgewehr_[$;{1-4}]
+säubere Itemname..
+Old?-School Jagdgewehr_[$;{1-4}] -> Old-School Jagdgewehr
+filtere Sonderzeichen..
+Old?-School Jagdgewehr_[$;{1-4}] -> Old?XSchool Jagdgewehr_[$;{1-4}]
+Erzeuge genaue Werte..
+-> 4
+<<->>
+Erzeuge Seltenheit..
+Modifiziere Rdm Werte (0-150)
+Randomizer ergibt: 53
+50<rdm>151 ->Normal 
+Item erhaelt Seltenheit: Normal 
+Erzeuge Itemtyp..
+Filtere Itemliste...
+Es wurde/n 0 Item/s aussortiert!
+Es wurde/n 0 Treffer gefunden!
+Es sind 9 Items ungetagged!
+Randomizer ergibt: 4 -> Kartoffelsack_[~;{2-2}]
+säubere Itemname..
+Kartoffelsack_[~;{2-2}] -> Kartoffelsack
+Erzeuge genaue Werte..
+-> 2
+<<->>
+Erzeuge Seltenheit..
+Modifiziere Rdm Werte (0-150)
+Randomizer ergibt: 104
+50<rdm>151 ->Normal 
+Item erhaelt Seltenheit: Normal 
+Erzeuge Itemtyp..
+Filtere Itemliste...
+Es wurde/n 0 Item/s aussortiert!
+Es wurde/n 0 Treffer gefunden!
+Es sind 9 Items ungetagged!
+Randomizer ergibt: 0 -> Geschaerfte Kruecke_[$;{0-3}]
+säubere Itemname..
+Geschaerfte Kruecke_[$;{0-3}] -> Geschaerfte Kruecke
+Erzeuge genaue Werte..
+-> 0
+<<->>
+Erzeuge Seltenheit..
+Modifiziere Rdm Werte (0-150)
+Randomizer ergibt: 18
+12<rdm>51 ->Selten
+Item erhaelt Seltenheit: Selten
+Erzeuge Itemtyp..
+Filtere Itemliste...
+Es wurde/n 0 Item/s aussortiert!
+Es wurde/n 0 Treffer gefunden!
+Es sind 10 Items ungetagged!
+Randomizer ergibt: 4 -> Stahlplattenpanzter_[~;#1;{2-4}]
+säubere Itemname..
+Stahlplattenpanzter_[~;#1;{2-4}] -> Stahlplattenpanzter
+Erzeuge genaue Werte..
+-> 2
+Erzeuge Attribute..
+Es wird 1 Attribut erzeugt!
+<<<<>>>>
+normales Attribut (0)
+Normal (AD)
+<<<<>>>>
+<<->>
+Erzeuge Seltenheit..
+Modifiziere Rdm Werte (0-150)
+Randomizer ergibt: 68
+50<rdm>151 ->Normal 
+Item erhaelt Seltenheit: Normal 
+Erzeuge Itemtyp..
+Filtere Itemliste...
+Es wurde/n 0 Item/s aussortiert!
+Es wurde/n 0 Treffer gefunden!
+Es sind 9 Items ungetagged!
+Randomizer ergibt: 4 -> Kartoffelsack_[~;{2-2}]
+säubere Itemname..
+Kartoffelsack_[~;{2-2}] -> Kartoffelsack
+Erzeuge genaue Werte..
+-> 2
+<<->>
+Erzeuge Seltenheit..
+Modifiziere Rdm Werte (0-150)
+Randomizer ergibt: 129
+50<rdm>151 ->Normal 
+Item erhaelt Seltenheit: Normal 
+Erzeuge Itemtyp..
+Filtere Itemliste...
+Es wurde/n 0 Item/s aussortiert!
+Es wurde/n 0 Treffer gefunden!
+Es sind 9 Items ungetagged!
+Randomizer ergibt: 7 -> Kieselsteine[(2,4);$;{2-4}]
+säubere Itemname..
+Kieselsteine[(2,4);$;{2-4}] -> Kieselsteine
+Erzeuge genaue Werte..
+-> 2
+<<->>
+Erzeuge Seltenheit..
+Modifiziere Rdm Werte (0-150)
+Randomizer ergibt: 129
+50<rdm>151 ->Normal 
+Item erhaelt Seltenheit: Normal 
+Erzeuge Itemtyp..
+Filtere Itemliste...
+Es wurde/n 0 Item/s aussortiert!
+Es wurde/n 0 Treffer gefunden!
+Es sind 9 Items ungetagged!
+Randomizer ergibt: 5 -> Wasser_[(1,3)]
+säubere Itemname..
+Wasser_[(1,3)] -> Wasser
+<<->>
+Erzeuge Seltenheit..
+Modifiziere Rdm Werte (0-150)
+Randomizer ergibt: 30
+12<rdm>51 ->Selten
+Item erhaelt Seltenheit: Selten
+Erzeuge Itemtyp..
+Filtere Itemliste...
+Es wurde/n 0 Item/s aussortiert!
+Es wurde/n 0 Treffer gefunden!
+Es sind 10 Items ungetagged!
+Randomizer ergibt: 5 -> Schulterpanzer_[~;{2-2}]
+säubere Itemname..
+Schulterpanzer_[~;{2-2}] -> Schulterpanzer
+Erzeuge genaue Werte..
+-> 2
+----------------------

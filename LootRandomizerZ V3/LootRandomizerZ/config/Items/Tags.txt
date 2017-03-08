@@ -1,0 +1,10 @@
+Waffe?       	-> $
+Rüstung?      	-> ~
+Attribute? 	-> #Zahl
+Anzahl? 	-> (Zahl,Zahl)
+wenn man eins der Sonderzeichen/ eine Zahl sonst verwendet,
+dann benutzt man vor jedem ein '?'
+Beispiele finden sich in den Dateien.
+weitere Sonderzeichen sin '[',']','_' und ';' um da 
+ein bischen Ordnung reinzubringen (haben keinen Effekt,
+ werden nachher rausgefiltert)

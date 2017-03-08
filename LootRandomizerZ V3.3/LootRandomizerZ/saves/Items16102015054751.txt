@@ -1,0 +1,25 @@
+--10 Items--
+05:44:40||Old-School Jagdgewehr|Normal |1Dmg|2 Parade|
+05:44:40||Krombacher|Selten| x(1)|
+05:44:40||Old-School Jagdgewehr|Normal |4Dmg|1 Parade|
+05:44:40||Wasser|Normal | x(3)|
+05:44:40||Schulterpanzer|Selten|2DmgReduction|
+05:44:40||Old-School Jagdgewehr|Normal |1Dmg|1 Parade|
+05:44:40||Kieselsteine|Normal |4Dmg|3 Parade| x(2)|
+05:44:40||Kartoffelsack|Normal |2DmgReduction|
+05:44:41||Wasser|Normal | x(1)|
+05:44:41||Old-School Jagdgewehr|Normal |1Dmg|3 Parade|
+--Ende--
+--10 Items--
+05:45:51||Uralt Karabiner|Normal |1Dmg|2 Parade|
+05:45:51||Stahlplattenpanzter|Selten|2DmgReduction|INT(1)|
+05:45:51||Old-School Jagdgewehr|Normal |4Dmg|5 Parade|
+05:45:51||Kartoffelsack|Normal |2DmgReduction|
+05:45:51||Geschaerfte Kruecke|Normal |0Dmg|5 Parade|
+05:45:51||Stahlplattenpanzter|Selten|2DmgReduction|AD(2)|
+05:45:51||Kartoffelsack|Normal |2DmgReduction|
+05:45:51||Kieselsteine|Normal |2Dmg|2 Parade| x(2)|
+05:45:51||Wasser|Normal | x(3)|
+05:45:51||Schulterpanzer|Selten|2DmgReduction|
+--Ende--
+
